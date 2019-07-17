@@ -87,7 +87,7 @@ class BuildingComponent(ModelComponent):
 		ostream.write("InvertSelection\n escape\n escape\n")
 			
 		ostream.write("mescape\n")
-		ostream.write("Meshing Structured Lines 4\n")
+		ostream.write("Meshing Structured Lines 10\n")
 		ostream.write("InvertSelection\n escape\n")
 		ostream.write("mescape\n")
 		ostream.write("mescape\n")
@@ -197,10 +197,15 @@ class BuildingComponent(ModelComponent):
 			ostream.write("InvertSelection\n escape\n 1\n")
 			ostream.write("InvertSelection\n escape\n")
 			ostream.write("mescape\n")
+			ostream.write("mescape\n")
+			ostream.write("Meshing Structured Lines Size "+str(self.params['build_mesh_size'])+" \n")			
+			ostream.write("InvertSelection\n escape\n")
+			ostream.write("mescape\n")
+			ostream.write("mescape\n")			
 			ostream.write("Utilities Variables Model(QuadraticType) 1\n")
 			ostream.write("mescape\n")
 			ostream.write("Meshing Generate\n")
-			ostream.write("DefaultSize\n")
+#			ostream.write("DefaultSize\n")
 			ostream.write("mescape\n")
 			
 			
