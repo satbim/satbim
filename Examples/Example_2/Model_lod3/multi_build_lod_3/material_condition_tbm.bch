@@ -1,0 +1,28 @@
+mescape
+Data Materials NewMaterial Isotropic3D TBM_Steel Isotropic3D Isotropic3D 7620.0kg/m^3 210000000000N/mm^2 0.3
+mescape
+Data Materials AssignMaterial TBM_Steel Volumes
+layer:shield 
+mescape
+mescape
+Data Conditions AssignCond VolumeElementType
+Change TotalLagrangian
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:shield
+mescape
+Data Conditions AssignCond Surface_Group_Membership
+Change shield
+layer:shield
+mescape
+mescape
+Data Conditions AssignCond Surface_Displacement
+Change 1 0 1 0 1 0 0 0 0 0 0 0
+layer:shield
+mescape

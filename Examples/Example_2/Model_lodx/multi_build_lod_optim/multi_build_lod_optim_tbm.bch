@@ -1,0 +1,89 @@
+mescape
+Files SaveAs D:/git-satbim_internal/Examples_2/Model_lodx/multi_build_lod_optim/multi_build_lod_optim_tbm_model.gid
+mescape
+mescape
+Utilities Variables ImportTolerance 10 AutoImportTolerance 0 
+mescape
+mescape
+view layers new
+shield
+ escape escape
+view layers ToUse
+shield
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/tbm/TBM_0.sat
+ mescape
+Geometry Edit ConvToNurbsL
+InvertSelection
+ escape
+ Yes
+mescape
+Geometry Delete Volume
+InvertSelection
+ escape
+ escape
+mescape
+Geometry Delete Surface
+3 5 
+mescape
+Geometry Create Line Join
+1 8 
+ escape
+2 5 
+ escape
+3 6 
+ escape
+4 7 
+ escape
+mescape
+Geometry Create NurbsSurface Automatic 4
+mescape
+view layers ToUse
+shield
+ escape escape
+mescape
+Geometry Create Volume AutomaticStruct
+mescape
+mescape
+mescape
+view layers new
+shield_outter_surface
+ escape escape
+view layers ToUse
+shield_outter_surface
+ escape escape
+Layers Entities
+shield_outter_surface
+LowerEntities Surfaces
+1 6mescape
+mescape
+Meshing ElemType Tetrahedra
+InvertSelection
+ escape
+ escape
+mescape
+Meshing Structured Volumes
+InvertSelection
+ escape
+ 1
+InvertSelection
+ escape
+ escape
+mescape
+Meshing Structured Lines 8
+InvertSelection
+ escape
+mescape
+mescape
+mescape
+Meshing Structured Lines 1
+13 14 15 16
+mescape
+mescape
+Utilities Variables Model(QuadraticType) 1
+mescape
+Meshing Generate
+DefaultSize
+mescape
+Files Save
+Quit

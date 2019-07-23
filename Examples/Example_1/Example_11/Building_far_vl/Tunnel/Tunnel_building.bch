@@ -1,0 +1,628 @@
+mescape
+Utilities Variables ImportTolerance 5 AutoImportTolerance 0
+mescape
+mescape
+Files SaveAs D:/git-satbim_internal/Example_1/Building_far_vl/Tunnel/Tunnel_building_model.gid
+mescape
+mescape
+view layers new
+building 
+ escape escape
+view layers ToUse
+building 
+ escape escape
+mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume1.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume2.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume3.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume4.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume5.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume6.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume7.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume8.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume9.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume10.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume11.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume12.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume13.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume14.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume15.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume16.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume17.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume18.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume19.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume20.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume21.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume22.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume23.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume24.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume25.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume26.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume27.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume28.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume29.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume30.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume31.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume32.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume33.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume34.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume35.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume36.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume37.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume38.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume39.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume40.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume41.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume42.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume43.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume44.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume45.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume46.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume47.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume48.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume49.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume50.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume51.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume52.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume53.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume54.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume55.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume56.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume57.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume58.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume59.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume60.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume61.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume62.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume63.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume64.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume65.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume66.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume67.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume68.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume69.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume70.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume71.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume72.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume73.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume74.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume75.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume76.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume77.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume78.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume79.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume80.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume81.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume82.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume83.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume84.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume85.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume86.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume87.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume88.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume89.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume90.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume91.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume92.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume93.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume94.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume95.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume96.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume97.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume98.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume99.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume100.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume101.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume102.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume103.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume104.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume105.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume106.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume107.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume108.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume109.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume110.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume111.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume112.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume113.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume114.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume115.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume116.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume117.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume118.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume119.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume120.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume121.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume122.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume123.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume124.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume125.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume126.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume127.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume128.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume129.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume130.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume131.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume132.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume133.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume134.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume135.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume136.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume137.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume138.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume139.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume140.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume141.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume142.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume143.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume144.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume145.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume146.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume147.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume148.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume149.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume150.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume151.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume152.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume153.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume154.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume155.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume156.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume157.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume158.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume159.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume160.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume161.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume162.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume163.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume164.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume165.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume166.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume167.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume168.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume169.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume170.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume171.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume172.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume173.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume174.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume175.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume176.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume177.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume178.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume179.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume180.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume181.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume182.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume183.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume184.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume185.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume186.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume187.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume188.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume189.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume190.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume191.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume192.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume193.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume194.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume195.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume196.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume197.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume198.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume199.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume200.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume201.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume202.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume203.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/buildings/building_volume204.sat
+ mescape
+view layers new
+foundation 
+ escape escape
+view layers ToUse
+foundation 
+ escape escape
+view layers entities
+foundation 
+LowerEntities Volumes
+1
+mescape
+view layers entities
+foundation 
+LowerEntities Volumes
+3
+mescape
+view layers entities
+foundation 
+LowerEntities Volumes
+5
+mescape
+view layers entities
+foundation 
+LowerEntities Volumes
+7
+mescape
+view layers entities
+foundation 
+LowerEntities Volumes
+9
+mescape
+view layers entities
+foundation 
+LowerEntities Volumes
+11
+mescape
+view layers entities
+foundation 
+LowerEntities Volumes
+13
+mescape
+view layers entities
+foundation 
+LowerEntities Volumes
+15
+mescape
+view layers entities
+foundation 
+LowerEntities Volumes
+17
+mescape
+view layers entities
+foundation 
+LowerEntities Volumes
+19
+mescape
+view layers entities
+foundation 
+LowerEntities Volumes
+21
+mescape
+view layers entities
+foundation 
+LowerEntities Volumes
+23
+mescape
+view layers entities
+foundation 
+LowerEntities Volumes
+85
+mescape
+view layers entities
+foundation 
+LowerEntities Volumes
+86
+mescape
+view layers entities
+foundation 
+LowerEntities Volumes
+87
+mescape
+view layers entities
+foundation 
+LowerEntities Volumes
+88
+mescape
+view layers entities
+foundation 
+LowerEntities Volumes
+89
+mescape
+view layers entities
+foundation 
+LowerEntities Volumes
+90
+mescape
+view layers entities
+foundation 
+LowerEntities Volumes
+91
+mescape
+view layers entities
+foundation 
+LowerEntities Volumes
+92
+mescape
+view layers entities
+foundation 
+LowerEntities Volumes
+93
+mescape
+view layers entities
+foundation 
+LowerEntities Volumes
+94
+mescape
+view layers entities
+foundation 
+LowerEntities Volumes
+95
+mescape
+view layers entities
+foundation 
+LowerEntities Volumes
+96
+mescape
+view layers entities
+foundation 
+LowerEntities Volumes
+97
+mescape
+view layers entities
+foundation 
+LowerEntities Volumes
+98
+mescape
+view layers entities
+foundation 
+LowerEntities Volumes
+99
+mescape
+view layers entities
+foundation 
+LowerEntities Volumes
+100
+mescape
+view layers entities
+foundation 
+LowerEntities Volumes
+101
+mescape
+view layers entities
+foundation 
+LowerEntities Volumes
+102
+mescape
+view layers entities
+foundation 
+LowerEntities Volumes
+103
+mescape
+view layers entities
+foundation 
+LowerEntities Volumes
+104
+mescape
+view layers entities
+foundation 
+LowerEntities Volumes
+105
+mescape
+view layers entities
+foundation 
+LowerEntities Volumes
+106
+mescape
+view layers entities
+foundation 
+LowerEntities Volumes
+107
+mescape
+mescape
+Meshing ElemType Hexahedra
+InvertSelection
+ escape
+ escape
+mescape
+Meshing Structured Volumes
+InvertSelection
+ escape
+ 1
+InvertSelection
+ escape
+mescape
+mescape
+Meshing Structured Lines Size 50 
+InvertSelection
+ escape
+mescape
+mescape
+Utilities Variables Model(QuadraticType) 1
+mescape
+Meshing Generate
+mescape
+Files Save
+Quit

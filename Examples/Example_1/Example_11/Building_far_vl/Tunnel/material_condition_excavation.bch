@@ -1,0 +1,658 @@
+mescape
+Data Materials NewMaterial UserDefined Excavation UserDefined UserDefined
+mescape
+mescape
+Data Materials AssignMaterial Excavation Volumes
+layer:excavation_1
+mescape
+Data Materials AssignMaterial Excavation Volumes
+layer:excavation_2
+mescape
+Data Materials AssignMaterial Excavation Volumes
+layer:excavation_3
+mescape
+Data Materials AssignMaterial Excavation Volumes
+layer:excavation_4
+mescape
+Data Materials AssignMaterial Excavation Volumes
+layer:excavation_5
+mescape
+Data Materials AssignMaterial Excavation Volumes
+layer:excavation_6
+mescape
+Data Materials AssignMaterial Excavation Volumes
+layer:excavation_7
+mescape
+Data Materials AssignMaterial Excavation Volumes
+layer:excavation_8
+mescape
+Data Materials AssignMaterial Excavation Volumes
+layer:excavation_9
+mescape
+Data Materials AssignMaterial Excavation Volumes
+layer:excavation_10
+mescape
+Data Materials AssignMaterial Excavation Volumes
+layer:excavation_11
+mescape
+Data Materials AssignMaterial Excavation Volumes
+layer:excavation_12
+mescape
+Data Materials AssignMaterial Excavation Volumes
+layer:excavation_13
+mescape
+Data Materials AssignMaterial Excavation Volumes
+layer:excavation_14
+mescape
+Data Materials AssignMaterial Excavation Volumes
+layer:excavation_15
+mescape
+Data Materials AssignMaterial Excavation Volumes
+layer:excavation_16
+mescape
+Data Materials AssignMaterial Excavation Volumes
+layer:excavation_17
+mescape
+Data Materials AssignMaterial Excavation Volumes
+layer:excavation_18
+mescape
+Data Materials AssignMaterial Excavation Volumes
+layer:excavation_19
+mescape
+Data Materials AssignMaterial Excavation Volumes
+layer:excavation_20
+mescape
+Data Materials AssignMaterial Excavation Volumes
+layer:excavation_21
+mescape
+Data Materials AssignMaterial Excavation Volumes
+layer:excavation_22
+mescape
+Data Materials AssignMaterial Excavation Volumes
+layer:excavation_23
+mescape
+Data Materials AssignMaterial Excavation Volumes
+layer:excavation_24
+mescape
+Data Materials AssignMaterial Excavation Volumes
+layer:excavation_25
+mescape
+Data Materials AssignMaterial Excavation Volumes
+layer:excavation_26
+mescape
+Data Materials AssignMaterial Excavation Volumes
+layer:excavation_27
+mescape
+Data Materials AssignMaterial Excavation Volumes
+layer:excavation_28
+mescape
+Data Materials AssignMaterial Excavation Volumes
+layer:excavation_29
+mescape
+Data Materials AssignMaterial Excavation Volumes
+layer:excavation_30
+mescape
+mescape
+Data Conditions AssignCond VolumeElementType
+Change UnsaturatedSoil_2Phase
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:excavation_1
+mescape
+Data Conditions AssignCond VolumeElementType
+Change UnsaturatedSoil_2Phase
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:excavation_2
+mescape
+Data Conditions AssignCond VolumeElementType
+Change UnsaturatedSoil_2Phase
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:excavation_3
+mescape
+Data Conditions AssignCond VolumeElementType
+Change UnsaturatedSoil_2Phase
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:excavation_4
+mescape
+Data Conditions AssignCond VolumeElementType
+Change UnsaturatedSoil_2Phase
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:excavation_5
+mescape
+Data Conditions AssignCond VolumeElementType
+Change UnsaturatedSoil_2Phase
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:excavation_6
+mescape
+Data Conditions AssignCond VolumeElementType
+Change UnsaturatedSoil_2Phase
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:excavation_7
+mescape
+Data Conditions AssignCond VolumeElementType
+Change UnsaturatedSoil_2Phase
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:excavation_8
+mescape
+Data Conditions AssignCond VolumeElementType
+Change UnsaturatedSoil_2Phase
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:excavation_9
+mescape
+Data Conditions AssignCond VolumeElementType
+Change UnsaturatedSoil_2Phase
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:excavation_10
+mescape
+Data Conditions AssignCond VolumeElementType
+Change UnsaturatedSoil_2Phase
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:excavation_11
+mescape
+Data Conditions AssignCond VolumeElementType
+Change UnsaturatedSoil_2Phase
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:excavation_12
+mescape
+Data Conditions AssignCond VolumeElementType
+Change UnsaturatedSoil_2Phase
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:excavation_13
+mescape
+Data Conditions AssignCond VolumeElementType
+Change UnsaturatedSoil_2Phase
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:excavation_14
+mescape
+Data Conditions AssignCond VolumeElementType
+Change UnsaturatedSoil_2Phase
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:excavation_15
+mescape
+Data Conditions AssignCond VolumeElementType
+Change UnsaturatedSoil_2Phase
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:excavation_16
+mescape
+Data Conditions AssignCond VolumeElementType
+Change UnsaturatedSoil_2Phase
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:excavation_17
+mescape
+Data Conditions AssignCond VolumeElementType
+Change UnsaturatedSoil_2Phase
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:excavation_18
+mescape
+Data Conditions AssignCond VolumeElementType
+Change UnsaturatedSoil_2Phase
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:excavation_19
+mescape
+Data Conditions AssignCond VolumeElementType
+Change UnsaturatedSoil_2Phase
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:excavation_20
+mescape
+Data Conditions AssignCond VolumeElementType
+Change UnsaturatedSoil_2Phase
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:excavation_21
+mescape
+Data Conditions AssignCond VolumeElementType
+Change UnsaturatedSoil_2Phase
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:excavation_22
+mescape
+Data Conditions AssignCond VolumeElementType
+Change UnsaturatedSoil_2Phase
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:excavation_23
+mescape
+Data Conditions AssignCond VolumeElementType
+Change UnsaturatedSoil_2Phase
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:excavation_24
+mescape
+Data Conditions AssignCond VolumeElementType
+Change UnsaturatedSoil_2Phase
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:excavation_25
+mescape
+Data Conditions AssignCond VolumeElementType
+Change UnsaturatedSoil_2Phase
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:excavation_26
+mescape
+Data Conditions AssignCond VolumeElementType
+Change UnsaturatedSoil_2Phase
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:excavation_27
+mescape
+Data Conditions AssignCond VolumeElementType
+Change UnsaturatedSoil_2Phase
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:excavation_28
+mescape
+Data Conditions AssignCond VolumeElementType
+Change UnsaturatedSoil_2Phase
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:excavation_29
+mescape
+Data Conditions AssignCond VolumeElementType
+Change UnsaturatedSoil_2Phase
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:excavation_30
+mescape
+Data Conditions AssignCond Surface_Group_Membership
+Change heading_face_1
+layer:heading_face_1
+mescape
+Data Conditions AssignCond Distributed_Surface_Load
+layer:heading_face_1
+mescape
+Data Conditions AssignCond Surface_Group_Membership
+Change heading_face_2
+layer:heading_face_2
+mescape
+Data Conditions AssignCond Distributed_Surface_Load
+layer:heading_face_2
+mescape
+Data Conditions AssignCond Surface_Group_Membership
+Change heading_face_3
+layer:heading_face_3
+mescape
+Data Conditions AssignCond Distributed_Surface_Load
+layer:heading_face_3
+mescape
+Data Conditions AssignCond Surface_Group_Membership
+Change heading_face_4
+layer:heading_face_4
+mescape
+Data Conditions AssignCond Distributed_Surface_Load
+layer:heading_face_4
+mescape
+Data Conditions AssignCond Surface_Group_Membership
+Change heading_face_5
+layer:heading_face_5
+mescape
+Data Conditions AssignCond Distributed_Surface_Load
+layer:heading_face_5
+mescape
+Data Conditions AssignCond Surface_Group_Membership
+Change heading_face_6
+layer:heading_face_6
+mescape
+Data Conditions AssignCond Distributed_Surface_Load
+layer:heading_face_6
+mescape
+Data Conditions AssignCond Surface_Group_Membership
+Change heading_face_7
+layer:heading_face_7
+mescape
+Data Conditions AssignCond Distributed_Surface_Load
+layer:heading_face_7
+mescape
+Data Conditions AssignCond Surface_Group_Membership
+Change heading_face_8
+layer:heading_face_8
+mescape
+Data Conditions AssignCond Distributed_Surface_Load
+layer:heading_face_8
+mescape
+Data Conditions AssignCond Surface_Group_Membership
+Change heading_face_9
+layer:heading_face_9
+mescape
+Data Conditions AssignCond Distributed_Surface_Load
+layer:heading_face_9
+mescape
+Data Conditions AssignCond Surface_Group_Membership
+Change heading_face_10
+layer:heading_face_10
+mescape
+Data Conditions AssignCond Distributed_Surface_Load
+layer:heading_face_10
+mescape
+Data Conditions AssignCond Surface_Group_Membership
+Change heading_face_11
+layer:heading_face_11
+mescape
+Data Conditions AssignCond Distributed_Surface_Load
+layer:heading_face_11
+mescape
+Data Conditions AssignCond Surface_Group_Membership
+Change heading_face_12
+layer:heading_face_12
+mescape
+Data Conditions AssignCond Distributed_Surface_Load
+layer:heading_face_12
+mescape
+Data Conditions AssignCond Surface_Group_Membership
+Change heading_face_13
+layer:heading_face_13
+mescape
+Data Conditions AssignCond Distributed_Surface_Load
+layer:heading_face_13
+mescape
+Data Conditions AssignCond Surface_Group_Membership
+Change heading_face_14
+layer:heading_face_14
+mescape
+Data Conditions AssignCond Distributed_Surface_Load
+layer:heading_face_14
+mescape
+Data Conditions AssignCond Surface_Group_Membership
+Change heading_face_15
+layer:heading_face_15
+mescape
+Data Conditions AssignCond Distributed_Surface_Load
+layer:heading_face_15
+mescape
+Data Conditions AssignCond Surface_Group_Membership
+Change heading_face_16
+layer:heading_face_16
+mescape
+Data Conditions AssignCond Distributed_Surface_Load
+layer:heading_face_16
+mescape
+Data Conditions AssignCond Surface_Group_Membership
+Change heading_face_17
+layer:heading_face_17
+mescape
+Data Conditions AssignCond Distributed_Surface_Load
+layer:heading_face_17
+mescape
+Data Conditions AssignCond Surface_Group_Membership
+Change heading_face_18
+layer:heading_face_18
+mescape
+Data Conditions AssignCond Distributed_Surface_Load
+layer:heading_face_18
+mescape
+Data Conditions AssignCond Surface_Group_Membership
+Change heading_face_19
+layer:heading_face_19
+mescape
+Data Conditions AssignCond Distributed_Surface_Load
+layer:heading_face_19
+mescape
+Data Conditions AssignCond Surface_Group_Membership
+Change heading_face_20
+layer:heading_face_20
+mescape
+Data Conditions AssignCond Distributed_Surface_Load
+layer:heading_face_20
+mescape
+Data Conditions AssignCond Surface_Group_Membership
+Change heading_face_21
+layer:heading_face_21
+mescape
+Data Conditions AssignCond Distributed_Surface_Load
+layer:heading_face_21
+mescape
+Data Conditions AssignCond Surface_Group_Membership
+Change heading_face_22
+layer:heading_face_22
+mescape
+Data Conditions AssignCond Distributed_Surface_Load
+layer:heading_face_22
+mescape
+Data Conditions AssignCond Surface_Group_Membership
+Change heading_face_23
+layer:heading_face_23
+mescape
+Data Conditions AssignCond Distributed_Surface_Load
+layer:heading_face_23
+mescape
+Data Conditions AssignCond Surface_Group_Membership
+Change heading_face_24
+layer:heading_face_24
+mescape
+Data Conditions AssignCond Distributed_Surface_Load
+layer:heading_face_24
+mescape
+Data Conditions AssignCond Surface_Group_Membership
+Change heading_face_25
+layer:heading_face_25
+mescape
+Data Conditions AssignCond Distributed_Surface_Load
+layer:heading_face_25
+mescape
+Data Conditions AssignCond Surface_Group_Membership
+Change heading_face_26
+layer:heading_face_26
+mescape
+Data Conditions AssignCond Distributed_Surface_Load
+layer:heading_face_26
+mescape
+Data Conditions AssignCond Surface_Group_Membership
+Change heading_face_27
+layer:heading_face_27
+mescape
+Data Conditions AssignCond Distributed_Surface_Load
+layer:heading_face_27
+mescape
+Data Conditions AssignCond Surface_Group_Membership
+Change heading_face_28
+layer:heading_face_28
+mescape
+Data Conditions AssignCond Distributed_Surface_Load
+layer:heading_face_28
+mescape
+Data Conditions AssignCond Surface_Group_Membership
+Change heading_face_29
+layer:heading_face_29
+mescape
+Data Conditions AssignCond Distributed_Surface_Load
+layer:heading_face_29
+mescape

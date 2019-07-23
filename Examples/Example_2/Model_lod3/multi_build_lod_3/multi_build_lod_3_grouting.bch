@@ -1,0 +1,1290 @@
+mescape
+Utilities Variables ImportTolerance 5 AutoImportTolerance 0
+mescape
+mescape
+Files SaveAs D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/multi_build_lod_3_grouting_model.gid
+mescape
+view layers new
+grouting_1
+ escape escape
+view layers ToUse
+grouting_1
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_1.sat
+ mescape
+view layers new
+grouting_2
+ escape escape
+view layers ToUse
+grouting_2
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_2.sat
+ mescape
+view layers new
+grouting_3
+ escape escape
+view layers ToUse
+grouting_3
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_3.sat
+ mescape
+view layers new
+grouting_4
+ escape escape
+view layers ToUse
+grouting_4
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_4.sat
+ mescape
+view layers new
+grouting_5
+ escape escape
+view layers ToUse
+grouting_5
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_5.sat
+ mescape
+view layers new
+grouting_6
+ escape escape
+view layers ToUse
+grouting_6
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_6.sat
+ mescape
+view layers new
+grouting_7
+ escape escape
+view layers ToUse
+grouting_7
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_7.sat
+ mescape
+view layers new
+grouting_8
+ escape escape
+view layers ToUse
+grouting_8
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_8.sat
+ mescape
+view layers new
+grouting_9
+ escape escape
+view layers ToUse
+grouting_9
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_9.sat
+ mescape
+view layers new
+grouting_10
+ escape escape
+view layers ToUse
+grouting_10
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_10.sat
+ mescape
+view layers new
+grouting_11
+ escape escape
+view layers ToUse
+grouting_11
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_11.sat
+ mescape
+view layers new
+grouting_12
+ escape escape
+view layers ToUse
+grouting_12
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_12.sat
+ mescape
+view layers new
+grouting_13
+ escape escape
+view layers ToUse
+grouting_13
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_13.sat
+ mescape
+view layers new
+grouting_14
+ escape escape
+view layers ToUse
+grouting_14
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_14.sat
+ mescape
+view layers new
+grouting_15
+ escape escape
+view layers ToUse
+grouting_15
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_15.sat
+ mescape
+view layers new
+grouting_16
+ escape escape
+view layers ToUse
+grouting_16
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_16.sat
+ mescape
+view layers new
+grouting_17
+ escape escape
+view layers ToUse
+grouting_17
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_17.sat
+ mescape
+view layers new
+grouting_18
+ escape escape
+view layers ToUse
+grouting_18
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_18.sat
+ mescape
+view layers new
+grouting_19
+ escape escape
+view layers ToUse
+grouting_19
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_19.sat
+ mescape
+view layers new
+grouting_20
+ escape escape
+view layers ToUse
+grouting_20
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_20.sat
+ mescape
+view layers new
+grouting_21
+ escape escape
+view layers ToUse
+grouting_21
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_21.sat
+ mescape
+view layers new
+grouting_22
+ escape escape
+view layers ToUse
+grouting_22
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_22.sat
+ mescape
+view layers new
+grouting_23
+ escape escape
+view layers ToUse
+grouting_23
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_23.sat
+ mescape
+view layers new
+grouting_24
+ escape escape
+view layers ToUse
+grouting_24
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_24.sat
+ mescape
+view layers new
+grouting_25
+ escape escape
+view layers ToUse
+grouting_25
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_25.sat
+ mescape
+view layers new
+grouting_26
+ escape escape
+view layers ToUse
+grouting_26
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_26.sat
+ mescape
+view layers new
+grouting_27
+ escape escape
+view layers ToUse
+grouting_27
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_27.sat
+ mescape
+view layers new
+grouting_28
+ escape escape
+view layers ToUse
+grouting_28
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_28.sat
+ mescape
+view layers new
+grouting_29
+ escape escape
+view layers ToUse
+grouting_29
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_29.sat
+ mescape
+view layers new
+grouting_30
+ escape escape
+view layers ToUse
+grouting_30
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_30.sat
+ mescape
+view layers new
+grouting_31
+ escape escape
+view layers ToUse
+grouting_31
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_31.sat
+ mescape
+view layers new
+grouting_32
+ escape escape
+view layers ToUse
+grouting_32
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_32.sat
+ mescape
+view layers new
+grouting_33
+ escape escape
+view layers ToUse
+grouting_33
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_33.sat
+ mescape
+view layers new
+grouting_34
+ escape escape
+view layers ToUse
+grouting_34
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_34.sat
+ mescape
+view layers new
+grouting_35
+ escape escape
+view layers ToUse
+grouting_35
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_35.sat
+ mescape
+view layers new
+grouting_36
+ escape escape
+view layers ToUse
+grouting_36
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_36.sat
+ mescape
+view layers new
+grouting_37
+ escape escape
+view layers ToUse
+grouting_37
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_37.sat
+ mescape
+view layers new
+grouting_38
+ escape escape
+view layers ToUse
+grouting_38
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_38.sat
+ mescape
+view layers new
+grouting_39
+ escape escape
+view layers ToUse
+grouting_39
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_39.sat
+ mescape
+view layers new
+grouting_40
+ escape escape
+view layers ToUse
+grouting_40
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_40.sat
+ mescape
+view layers new
+grouting_41
+ escape escape
+view layers ToUse
+grouting_41
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_41.sat
+ mescape
+view layers new
+grouting_42
+ escape escape
+view layers ToUse
+grouting_42
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_42.sat
+ mescape
+view layers new
+grouting_43
+ escape escape
+view layers ToUse
+grouting_43
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_43.sat
+ mescape
+view layers new
+grouting_44
+ escape escape
+view layers ToUse
+grouting_44
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_44.sat
+ mescape
+view layers new
+grouting_45
+ escape escape
+view layers ToUse
+grouting_45
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_45.sat
+ mescape
+view layers new
+grouting_46
+ escape escape
+view layers ToUse
+grouting_46
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_46.sat
+ mescape
+view layers new
+grouting_47
+ escape escape
+view layers ToUse
+grouting_47
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_47.sat
+ mescape
+view layers new
+grouting_48
+ escape escape
+view layers ToUse
+grouting_48
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_48.sat
+ mescape
+view layers new
+grouting_49
+ escape escape
+view layers ToUse
+grouting_49
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_49.sat
+ mescape
+view layers new
+grouting_50
+ escape escape
+view layers ToUse
+grouting_50
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_50.sat
+ mescape
+view layers new
+grouting_51
+ escape escape
+view layers ToUse
+grouting_51
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_51.sat
+ mescape
+view layers new
+grouting_52
+ escape escape
+view layers ToUse
+grouting_52
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_52.sat
+ mescape
+view layers new
+grouting_53
+ escape escape
+view layers ToUse
+grouting_53
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_53.sat
+ mescape
+view layers new
+grouting_54
+ escape escape
+view layers ToUse
+grouting_54
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_54.sat
+ mescape
+view layers new
+grouting_55
+ escape escape
+view layers ToUse
+grouting_55
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_55.sat
+ mescape
+view layers new
+grouting_56
+ escape escape
+view layers ToUse
+grouting_56
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_56.sat
+ mescape
+view layers new
+grouting_57
+ escape escape
+view layers ToUse
+grouting_57
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_57.sat
+ mescape
+view layers new
+grouting_58
+ escape escape
+view layers ToUse
+grouting_58
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_58.sat
+ mescape
+view layers new
+grouting_59
+ escape escape
+view layers ToUse
+grouting_59
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_59.sat
+ mescape
+view layers new
+grouting_60
+ escape escape
+view layers ToUse
+grouting_60
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_60.sat
+ mescape
+view layers new
+grouting_61
+ escape escape
+view layers ToUse
+grouting_61
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_61.sat
+ mescape
+view layers new
+grouting_62
+ escape escape
+view layers ToUse
+grouting_62
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_62.sat
+ mescape
+view layers new
+grouting_63
+ escape escape
+view layers ToUse
+grouting_63
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_63.sat
+ mescape
+view layers new
+grouting_64
+ escape escape
+view layers ToUse
+grouting_64
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_64.sat
+ mescape
+view layers new
+grouting_65
+ escape escape
+view layers ToUse
+grouting_65
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_65.sat
+ mescape
+view layers new
+grouting_66
+ escape escape
+view layers ToUse
+grouting_66
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_66.sat
+ mescape
+view layers new
+grouting_67
+ escape escape
+view layers ToUse
+grouting_67
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_67.sat
+ mescape
+view layers new
+grouting_68
+ escape escape
+view layers ToUse
+grouting_68
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_68.sat
+ mescape
+view layers new
+grouting_69
+ escape escape
+view layers ToUse
+grouting_69
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_69.sat
+ mescape
+view layers new
+grouting_70
+ escape escape
+view layers ToUse
+grouting_70
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_70.sat
+ mescape
+view layers new
+grouting_71
+ escape escape
+view layers ToUse
+grouting_71
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_71.sat
+ mescape
+view layers new
+grouting_72
+ escape escape
+view layers ToUse
+grouting_72
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_72.sat
+ mescape
+view layers new
+grouting_73
+ escape escape
+view layers ToUse
+grouting_73
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_73.sat
+ mescape
+view layers new
+grouting_74
+ escape escape
+view layers ToUse
+grouting_74
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_74.sat
+ mescape
+view layers new
+grouting_75
+ escape escape
+view layers ToUse
+grouting_75
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_75.sat
+ mescape
+view layers new
+grouting_76
+ escape escape
+view layers ToUse
+grouting_76
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_76.sat
+ mescape
+view layers new
+grouting_77
+ escape escape
+view layers ToUse
+grouting_77
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_77.sat
+ mescape
+view layers new
+grouting_78
+ escape escape
+view layers ToUse
+grouting_78
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files\grouting\grouting_volume_78.sat
+ mescape
+mescape
+Utilities Repair Yes
+mescape
+mescape
+Utilities Repair Yes
+mescape
+view layers new
+grouting_surface_inside 
+ escape escape
+view layers entities
+grouting_surface_inside 
+surfaces
+1 5 8 11 14 17 20 23 26 29 32 35 38 41 44 47 50 53 56 59 62 65 68 71 74 77 80 83 86 89 92 95 98 101 104 107 110 113 116 119 122 125 128 131 134 137 140 143 146 149 152 155 158 161 164 167 170 173 176 179 182 185 188 191 194 197 200 203 206 209 212 215 218 221 224 227 230 233 
+mescape
+view layers new
+grouting_surface_1 
+ escape escape
+view layers entities
+grouting_surface_1 
+surfaces
+2 
+mescape
+view layers new
+grouting_surface_2 
+ escape escape
+view layers entities
+grouting_surface_2 
+surfaces
+6 
+mescape
+view layers new
+grouting_surface_3 
+ escape escape
+view layers entities
+grouting_surface_3 
+surfaces
+9 
+mescape
+view layers new
+grouting_surface_4 
+ escape escape
+view layers entities
+grouting_surface_4 
+surfaces
+12 
+mescape
+view layers new
+grouting_surface_5 
+ escape escape
+view layers entities
+grouting_surface_5 
+surfaces
+15 
+mescape
+view layers new
+grouting_surface_6 
+ escape escape
+view layers entities
+grouting_surface_6 
+surfaces
+18 
+mescape
+view layers new
+grouting_surface_7 
+ escape escape
+view layers entities
+grouting_surface_7 
+surfaces
+21 
+mescape
+view layers new
+grouting_surface_8 
+ escape escape
+view layers entities
+grouting_surface_8 
+surfaces
+24 
+mescape
+view layers new
+grouting_surface_9 
+ escape escape
+view layers entities
+grouting_surface_9 
+surfaces
+27 
+mescape
+view layers new
+grouting_surface_10 
+ escape escape
+view layers entities
+grouting_surface_10 
+surfaces
+30 
+mescape
+view layers new
+grouting_surface_11 
+ escape escape
+view layers entities
+grouting_surface_11 
+surfaces
+33 
+mescape
+view layers new
+grouting_surface_12 
+ escape escape
+view layers entities
+grouting_surface_12 
+surfaces
+36 
+mescape
+view layers new
+grouting_surface_13 
+ escape escape
+view layers entities
+grouting_surface_13 
+surfaces
+39 
+mescape
+view layers new
+grouting_surface_14 
+ escape escape
+view layers entities
+grouting_surface_14 
+surfaces
+42 
+mescape
+view layers new
+grouting_surface_15 
+ escape escape
+view layers entities
+grouting_surface_15 
+surfaces
+45 
+mescape
+view layers new
+grouting_surface_16 
+ escape escape
+view layers entities
+grouting_surface_16 
+surfaces
+48 
+mescape
+view layers new
+grouting_surface_17 
+ escape escape
+view layers entities
+grouting_surface_17 
+surfaces
+51 
+mescape
+view layers new
+grouting_surface_18 
+ escape escape
+view layers entities
+grouting_surface_18 
+surfaces
+54 
+mescape
+view layers new
+grouting_surface_19 
+ escape escape
+view layers entities
+grouting_surface_19 
+surfaces
+57 
+mescape
+view layers new
+grouting_surface_20 
+ escape escape
+view layers entities
+grouting_surface_20 
+surfaces
+60 
+mescape
+view layers new
+grouting_surface_21 
+ escape escape
+view layers entities
+grouting_surface_21 
+surfaces
+63 
+mescape
+view layers new
+grouting_surface_22 
+ escape escape
+view layers entities
+grouting_surface_22 
+surfaces
+66 
+mescape
+view layers new
+grouting_surface_23 
+ escape escape
+view layers entities
+grouting_surface_23 
+surfaces
+69 
+mescape
+view layers new
+grouting_surface_24 
+ escape escape
+view layers entities
+grouting_surface_24 
+surfaces
+72 
+mescape
+view layers new
+grouting_surface_25 
+ escape escape
+view layers entities
+grouting_surface_25 
+surfaces
+75 
+mescape
+view layers new
+grouting_surface_26 
+ escape escape
+view layers entities
+grouting_surface_26 
+surfaces
+78 
+mescape
+view layers new
+grouting_surface_27 
+ escape escape
+view layers entities
+grouting_surface_27 
+surfaces
+81 
+mescape
+view layers new
+grouting_surface_28 
+ escape escape
+view layers entities
+grouting_surface_28 
+surfaces
+84 
+mescape
+view layers new
+grouting_surface_29 
+ escape escape
+view layers entities
+grouting_surface_29 
+surfaces
+87 
+mescape
+view layers new
+grouting_surface_30 
+ escape escape
+view layers entities
+grouting_surface_30 
+surfaces
+90 
+mescape
+view layers new
+grouting_surface_31 
+ escape escape
+view layers entities
+grouting_surface_31 
+surfaces
+93 
+mescape
+view layers new
+grouting_surface_32 
+ escape escape
+view layers entities
+grouting_surface_32 
+surfaces
+96 
+mescape
+view layers new
+grouting_surface_33 
+ escape escape
+view layers entities
+grouting_surface_33 
+surfaces
+99 
+mescape
+view layers new
+grouting_surface_34 
+ escape escape
+view layers entities
+grouting_surface_34 
+surfaces
+102 
+mescape
+view layers new
+grouting_surface_35 
+ escape escape
+view layers entities
+grouting_surface_35 
+surfaces
+105 
+mescape
+view layers new
+grouting_surface_36 
+ escape escape
+view layers entities
+grouting_surface_36 
+surfaces
+108 
+mescape
+view layers new
+grouting_surface_37 
+ escape escape
+view layers entities
+grouting_surface_37 
+surfaces
+111 
+mescape
+view layers new
+grouting_surface_38 
+ escape escape
+view layers entities
+grouting_surface_38 
+surfaces
+114 
+mescape
+view layers new
+grouting_surface_39 
+ escape escape
+view layers entities
+grouting_surface_39 
+surfaces
+117 
+mescape
+view layers new
+grouting_surface_40 
+ escape escape
+view layers entities
+grouting_surface_40 
+surfaces
+120 
+mescape
+view layers new
+grouting_surface_41 
+ escape escape
+view layers entities
+grouting_surface_41 
+surfaces
+123 
+mescape
+view layers new
+grouting_surface_42 
+ escape escape
+view layers entities
+grouting_surface_42 
+surfaces
+126 
+mescape
+view layers new
+grouting_surface_43 
+ escape escape
+view layers entities
+grouting_surface_43 
+surfaces
+129 
+mescape
+view layers new
+grouting_surface_44 
+ escape escape
+view layers entities
+grouting_surface_44 
+surfaces
+132 
+mescape
+view layers new
+grouting_surface_45 
+ escape escape
+view layers entities
+grouting_surface_45 
+surfaces
+135 
+mescape
+view layers new
+grouting_surface_46 
+ escape escape
+view layers entities
+grouting_surface_46 
+surfaces
+138 
+mescape
+view layers new
+grouting_surface_47 
+ escape escape
+view layers entities
+grouting_surface_47 
+surfaces
+141 
+mescape
+view layers new
+grouting_surface_48 
+ escape escape
+view layers entities
+grouting_surface_48 
+surfaces
+144 
+mescape
+view layers new
+grouting_surface_49 
+ escape escape
+view layers entities
+grouting_surface_49 
+surfaces
+147 
+mescape
+view layers new
+grouting_surface_50 
+ escape escape
+view layers entities
+grouting_surface_50 
+surfaces
+150 
+mescape
+view layers new
+grouting_surface_51 
+ escape escape
+view layers entities
+grouting_surface_51 
+surfaces
+153 
+mescape
+view layers new
+grouting_surface_52 
+ escape escape
+view layers entities
+grouting_surface_52 
+surfaces
+156 
+mescape
+view layers new
+grouting_surface_53 
+ escape escape
+view layers entities
+grouting_surface_53 
+surfaces
+159 
+mescape
+view layers new
+grouting_surface_54 
+ escape escape
+view layers entities
+grouting_surface_54 
+surfaces
+162 
+mescape
+view layers new
+grouting_surface_55 
+ escape escape
+view layers entities
+grouting_surface_55 
+surfaces
+165 
+mescape
+view layers new
+grouting_surface_56 
+ escape escape
+view layers entities
+grouting_surface_56 
+surfaces
+168 
+mescape
+view layers new
+grouting_surface_57 
+ escape escape
+view layers entities
+grouting_surface_57 
+surfaces
+171 
+mescape
+view layers new
+grouting_surface_58 
+ escape escape
+view layers entities
+grouting_surface_58 
+surfaces
+174 
+mescape
+view layers new
+grouting_surface_59 
+ escape escape
+view layers entities
+grouting_surface_59 
+surfaces
+177 
+mescape
+view layers new
+grouting_surface_60 
+ escape escape
+view layers entities
+grouting_surface_60 
+surfaces
+180 
+mescape
+view layers new
+grouting_surface_61 
+ escape escape
+view layers entities
+grouting_surface_61 
+surfaces
+183 
+mescape
+view layers new
+grouting_surface_62 
+ escape escape
+view layers entities
+grouting_surface_62 
+surfaces
+186 
+mescape
+view layers new
+grouting_surface_63 
+ escape escape
+view layers entities
+grouting_surface_63 
+surfaces
+189 
+mescape
+view layers new
+grouting_surface_64 
+ escape escape
+view layers entities
+grouting_surface_64 
+surfaces
+192 
+mescape
+view layers new
+grouting_surface_65 
+ escape escape
+view layers entities
+grouting_surface_65 
+surfaces
+195 
+mescape
+view layers new
+grouting_surface_66 
+ escape escape
+view layers entities
+grouting_surface_66 
+surfaces
+198 
+mescape
+view layers new
+grouting_surface_67 
+ escape escape
+view layers entities
+grouting_surface_67 
+surfaces
+201 
+mescape
+view layers new
+grouting_surface_68 
+ escape escape
+view layers entities
+grouting_surface_68 
+surfaces
+204 
+mescape
+view layers new
+grouting_surface_69 
+ escape escape
+view layers entities
+grouting_surface_69 
+surfaces
+207 
+mescape
+view layers new
+grouting_surface_70 
+ escape escape
+view layers entities
+grouting_surface_70 
+surfaces
+210 
+mescape
+view layers new
+grouting_surface_71 
+ escape escape
+view layers entities
+grouting_surface_71 
+surfaces
+213 
+mescape
+view layers new
+grouting_surface_72 
+ escape escape
+view layers entities
+grouting_surface_72 
+surfaces
+216 
+mescape
+view layers new
+grouting_surface_73 
+ escape escape
+view layers entities
+grouting_surface_73 
+surfaces
+219 
+mescape
+view layers new
+grouting_surface_74 
+ escape escape
+view layers entities
+grouting_surface_74 
+surfaces
+222 
+mescape
+view layers new
+grouting_surface_75 
+ escape escape
+view layers entities
+grouting_surface_75 
+surfaces
+225 
+mescape
+view layers new
+grouting_surface_76 
+ escape escape
+view layers entities
+grouting_surface_76 
+surfaces
+228 
+mescape
+view layers new
+grouting_surface_77 
+ escape escape
+view layers entities
+grouting_surface_77 
+surfaces
+231 
+mescape
+view layers new
+grouting_surface_78 
+ escape escape
+view layers entities
+grouting_surface_78 
+surfaces
+234 
+mescape
+Geometry Edit ConvToNurbsL
+InvertSelection
+ escape
+ Yes
+mescape
+mescape
+Meshing Structured Lines 12
+InvertSelection
+ escape
+mescape
+mescape
+Meshing Structured Lines 1
+2 6 7 10 11 14 15 18 19 22 23 26 27 30 31 34 35 38 39 42 43 46 47 50 51 54 55 58 59 62 63 66 67 70 71 74 75 78 79 82 83 86 87 90 91 94 95 98 99 102 103 106 107 110 111 114 115 118 119 122 123 126 127 130 131 134 135 138 139 142 143 146 147 150 151 154 155 158 159 162 163 166 167 170 171 174 175 178 179 182 183 186 187 190 191 194 195 198 199 202 203 206 207 210 211 214 215 218 219 222 223 226 227 230 231 234 235 238 239 242 243 246 247 250 251 254 255 258 259 262 263 266 267 270 271 274 275 278 279 282 283 286 287 290 291 294 295 298 299 302 303 306 307 310 311 314 
+mescape
+mescape
+Utilities Variables Model(QuadraticType) 1
+mescape
+Meshing Generate Yes
+5000
+mescape
+Files Save
+Quit

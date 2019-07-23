@@ -1,0 +1,20 @@
+begin material soil_1
+begin polygon
+-10 0 -50 
+144.008507477 0 -50 
+144.008507477 0 10 
+-10 0 10 
+end polygon
+begin parameters
+model_type isotropic3d 
+youngs_modulus 100000000 
+internal_friction_angle 30 
+hardening_modulus 10000000 
+density 2000 
+poisson_ratio 0.3 
+permeability 0.001 
+porosity 0.2 
+cohesion 10000 
+K0 1.0
+end parameters
+end material

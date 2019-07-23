@@ -1,0 +1,39 @@
+mescape
+Files SaveAs D:/git-satbim_internal/Examples/Metamodel/Model_1/Tunnel/Tunnel_insitu_1_model.gid
+mescape
+mescape
+Utilities Variables ImportTolerance 5.0 AutoImportTolerance 0 
+mescape
+Data Defaults ProblemType Yes ekate mescape
+mescape
+Files InsertGeom D:/git-satbim_internal/Examples/Metamodel/Model_1/Tunnel/Tunnel_ground_model.gid
+mescape
+Files InsertGeom D:/git-satbim_internal/Examples/Metamodel/Model_1/Tunnel/Tunnel_excavation_model.gid
+mescape
+mescape
+Meshing CancelMesh PreserveFrozen Yes
+mescape
+Utilities Collapse Model Yes
+mescape
+view layers ToUse
+ground 
+ escape escape
+view layers entities
+ground 
+LowerEntities Volumes
+InvertSelection
+ escape
+ escape
+mescape
+Utilities Collapse Model Yes
+mescape
+mescape
+Files BatchFile
+D:/git-satbim_internal/Examples/Metamodel/Model_1/Tunnel/material_condition_insitu.bch
+mescape
+Files WriteCalcFile D:/git-satbim_internal/Examples/Metamodel/Model_1/Tunnel/Tunnel_insitu_1_model.gid/Tunnel_insitu_1_model.dat
+mescape
+mescape
+Files Save
+mescape
+Quit

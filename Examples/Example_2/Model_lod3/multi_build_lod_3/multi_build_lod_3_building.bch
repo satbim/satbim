@@ -1,0 +1,102 @@
+mescape
+Utilities Variables ImportTolerance 5 AutoImportTolerance 0
+mescape
+mescape
+Files SaveAs D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/multi_build_lod_3_building_model.gid
+mescape
+mescape
+mescape
+Files InsertGeom D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/multi_build_lod_3_building_help_1.gid
+mescape
+mescape
+mescape
+mescape
+Files InsertGeom D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/multi_build_lod_3_building_help_2.gid
+mescape
+mescape
+mescape
+mescape
+Files InsertGeom D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/multi_build_lod_3_building_help_3.gid
+mescape
+mescape
+mescape
+mescape
+Files InsertGeom D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/multi_build_lod_3_building_help_4.gid
+mescape
+mescape
+mescape
+mescape
+Files InsertGeom D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/multi_build_lod_3_building_help_5.gid
+mescape
+mescape
+mescape
+mescape
+Files InsertGeom D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/multi_build_lod_3_building_help_6.gid
+mescape
+mescape
+mescape
+mescape
+Files InsertGeom D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/multi_build_lod_3_building_help_7.gid
+mescape
+mescape
+mescape
+mescape
+Files InsertGeom D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/multi_build_lod_3_building_help_8.gid
+mescape
+mescape
+mescape
+mescape
+Files InsertGeom D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/multi_build_lod_3_building_help_9.gid
+mescape
+mescape
+mescape
+mescape
+Files InsertGeom D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/multi_build_lod_3_building_help_10.gid
+mescape
+mescape
+mescape
+mescape
+Files InsertGeom D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/multi_build_lod_3_building_help_11.gid
+mescape
+mescape
+mescape
+mescape
+Files InsertGeom D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/multi_build_lod_3_building_help_12.gid
+mescape
+mescape
+mescape
+mescape
+Files InsertGeom D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/multi_build_lod_3_building_help_13.gid
+mescape
+mescape
+mescape
+mescape
+Files InsertGeom D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/multi_build_lod_3_building_help_14.gid
+mescape
+mescape
+mescape
+mescape
+Files InsertGeom D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/multi_build_lod_3_building_help_15.gid
+mescape
+mescape
+mescape
+mescape
+Files InsertGeom D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/multi_build_lod_3_building_help_16.gid
+mescape
+mescape
+Meshing CancelMesh PreserveFrozen Yes
+mescape
+mescape
+mescape
+Meshing Structured Lines Size 50 
+InvertSelection
+ escape
+mescape
+mescape
+Utilities Variables Model(QuadraticType) 1
+mescape
+Meshing Generate
+DefaultSize
+mescape
+Files Save
+Quit

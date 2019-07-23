@@ -1,0 +1,62 @@
+mescape
+Data Materials NewMaterial UserDefined Soil UserDefined UserDefined
+mescape
+mescape
+Data Materials AssignMaterial Soil Volumes
+layer:ground
+mescape
+Data Conditions AssignCond VolumeElementType
+Change UnsaturatedSoil_2Phase
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:ground
+mescape
+mescape
+Data Conditions AssignCond Surface_Group_Membership
+Change Top
+layer:Top
+mescape
+mescape
+Files Save
+mescape
+mescape
+Data Conditions AssignCond IsTop
+UnAssign InvertSelection
+mescape
+Data Conditions AssignCond IsTop
+layer:surface
+mescape
+Data Conditions AssignCond Surface_Water_Pressure
+UnAssign layer:surface
+mescape
+mescape
+mescape
+Files Save
+mescape
+Data Conditions AssignCond Surface_Group_Membership
+Change surface
+layer:surface
+mescape
+Data Conditions AssignCond Distributed_Surface_Load
+layer:surface
+mescape
+mescape
+Files Save
+*****TCL GetBoundary 
+mescape
+Data Conditions AssignCond IsTop
+UnAssign InvertSelection
+mescape
+Data Conditions AssignCond IsTop
+layer:surface
+mescape
+Data Conditions AssignCond Surface_Water_Pressure
+Change 1 1.0
+layer:surface
+mescape

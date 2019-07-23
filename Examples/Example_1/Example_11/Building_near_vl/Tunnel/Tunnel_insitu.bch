@@ -1,0 +1,76 @@
+mescape
+mescape
+Files SaveAs D:/git-satbim_internal/Examples/Metamodel/Model_1/Tunnel/Tunnel_insitu_model.gid
+mescape
+mescape
+Utilities Variables ImportTolerance 50 AutoImportTolerance 0
+mescape
+view layers new
+ground
+ escape escape
+view layers ToUse
+ground
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples/Metamodel/Model_1/sat_files\soil_insitu\soil_insitu_volume.sat
+ mescape
+Utilities Variables ImportTolerance 50 AutoImportTolerance 0
+mescape
+mescape
+Data Defaults ProblemType Yes ekate mescape
+mescape
+mescape
+view layers new
+Top
+ escape escape
+view layers ToUse
+Top
+ escape escape
+Layers Entities
+Top
+LowerEntities Surfaces
+1 
+mescape
+view layers new
+Bottom
+ escape escape
+view layers ToUse
+Bottom
+ escape escape
+Layers Entities
+Bottom
+LowerEntities Surfaces
+2 
+mescape
+view layers new
+Side_x
+ escape escape
+view layers ToUse
+Side_x
+ escape escape
+Layers Entities
+Side_x
+LowerEntities Surfaces
+4 6 
+mescape
+view layers new
+Side_y
+ escape escape
+view layers ToUse
+Side_y
+ escape escape
+Layers Entities
+Side_y
+LowerEntities Surfaces
+3 5 
+mescape
+mescape
+Data Conditions AssignCond IsTop
+UnAssign InvertSelection
+mescape
+mescape
+Files BatchFile
+D:/git-satbim_internal/Examples/Metamodel/Model_1/Tunnel/material_condition_insitu.bch
+mescape
+Files WriteCalcFile D:/git-satbim_internal/Examples/Metamodel/Model_1/Tunnel/Tunnel_insitu_model.gid/Tunnel_insitu_model.dat
+mescape
+Quit

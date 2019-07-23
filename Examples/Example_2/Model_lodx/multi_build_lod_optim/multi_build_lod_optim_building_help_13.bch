@@ -1,0 +1,739 @@
+mescape
+mescape
+Utilities Variables ImportTolerance 5 AutoImportTolerance 0
+mescape
+mescape
+Files SaveAs D:/git-satbim_internal/Examples_2/Model_lodx/multi_build_lod_optim/multi_build_lod_optim_building_help_13.gid
+mescape
+mescape
+view layers new
+building_13 
+ escape escape
+view layers ToUse
+building_13 
+ escape escape
+mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume1.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume2.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume3.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume4.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume5.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume6.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume7.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume8.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume9.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume10.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume11.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume12.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume13.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume14.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume15.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume16.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume17.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume18.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume19.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume20.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume21.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume22.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume23.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume24.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume25.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume26.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume27.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume28.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume29.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume30.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume31.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume32.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume33.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume34.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume35.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume36.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume37.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume38.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume39.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume40.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume41.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume42.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume43.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume44.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume45.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume46.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume47.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume48.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume49.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume50.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume51.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume52.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume53.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume54.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume55.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume56.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume57.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume58.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume59.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume60.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume61.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume62.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume63.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume64.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume65.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume66.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume67.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume68.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume69.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume70.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume71.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume72.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume73.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume74.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume75.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume76.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume77.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume78.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume79.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume80.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume81.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume82.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume83.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume84.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume85.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume86.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume87.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume88.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume89.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume90.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume91.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume92.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume93.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume94.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume95.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume96.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume97.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume98.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume99.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume100.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume101.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume102.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume103.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume104.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume105.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume106.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume107.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume108.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume109.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume110.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume111.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume112.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume113.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume114.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume115.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume116.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume117.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume118.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume119.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume120.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume121.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume122.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume123.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume124.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume125.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume126.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume127.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume128.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume129.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume130.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume131.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume132.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume133.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume134.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume135.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume136.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume137.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume138.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume139.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume140.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume141.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume142.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume143.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume144.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume145.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume146.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume147.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume148.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume149.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume150.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume151.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume152.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume153.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume154.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume155.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume156.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume157.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume158.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume159.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume160.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume161.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume162.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume163.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume164.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume165.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume166.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume167.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume168.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume169.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume170.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume171.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume172.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume173.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume174.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume175.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume176.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume177.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume178.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume179.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume180.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume181.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume182.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume183.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume184.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume185.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume186.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume187.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume188.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume189.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume190.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume191.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume192.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume193.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume194.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume195.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume196.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume197.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume198.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume199.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume200.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume201.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume202.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume203.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume204.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume205.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume206.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume207.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume208.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume209.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume210.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume211.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume212.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume213.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume214.sat
+ mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_13/building_volume215.sat
+ mescape
+view layers new
+foundation_13 
+ escape escape
+view layers ToUse
+foundation_13 
+ escape escape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+1
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+3
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+5
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+7
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+9
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+11
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+13
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+15
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+17
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+19
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+21
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+23
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+25
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+27
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+29
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+31
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+81
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+82
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+83
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+84
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+85
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+86
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+87
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+88
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+89
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+90
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+91
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+92
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+93
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+94
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+95
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+96
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+97
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+98
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+99
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+100
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+101
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+102
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+103
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+104
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+105
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+106
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+107
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+108
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+109
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+110
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+111
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+112
+mescape
+view layers entities
+foundation_13 
+LowerEntities Volumes
+113
+mescape
+mescape
+Layers off building_13 
+mescape
+mescape
+view layers new
+foundation 
+ escape escape
+view layers ToUse
+foundation 
+ escape escape
+view layers entities
+foundation 
+LowerEntities Surfaces
+InvertSelection
+mescape
+mescape
+Layers on building_13 
+mescape
+mescape
+Meshing ElemType Hexahedra
+InvertSelection
+ escape
+mescape
+Meshing Structured Volumes
+InvertSelection
+ escape
+ 1
+InvertSelection
+ escape
+mescape
+mescape
+Meshing Structured Lines 1
+InvertSelection
+ escape
+mescape
+mescape
+Utilities Variables Model(QuadraticType) 1
+mescape
+Meshing Generate
+DefaultSize
+mescape
+Files Save
+Quit

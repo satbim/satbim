@@ -1,0 +1,3005 @@
+mescape
+Files SaveAs D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/multi_build_lod_3_lining_model.gid
+mescape
+mescape
+Utilities Variables ImportTolerance 5 AutoImportTolerance 0
+mescape
+view layers new
+lining_1
+ escape escape
+view layers ToUse
+lining_1
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_1.sat
+ mescape
+view layers new
+lining_2
+ escape escape
+view layers ToUse
+lining_2
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_2.sat
+ mescape
+view layers new
+lining_3
+ escape escape
+view layers ToUse
+lining_3
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_3.sat
+ mescape
+view layers new
+lining_4
+ escape escape
+view layers ToUse
+lining_4
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_4.sat
+ mescape
+view layers new
+lining_5
+ escape escape
+view layers ToUse
+lining_5
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_5.sat
+ mescape
+view layers new
+lining_6
+ escape escape
+view layers ToUse
+lining_6
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_6.sat
+ mescape
+view layers new
+lining_7
+ escape escape
+view layers ToUse
+lining_7
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_7.sat
+ mescape
+view layers new
+lining_8
+ escape escape
+view layers ToUse
+lining_8
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_8.sat
+ mescape
+view layers new
+lining_9
+ escape escape
+view layers ToUse
+lining_9
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_9.sat
+ mescape
+view layers new
+lining_10
+ escape escape
+view layers ToUse
+lining_10
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_10.sat
+ mescape
+view layers new
+lining_11
+ escape escape
+view layers ToUse
+lining_11
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_11.sat
+ mescape
+view layers new
+lining_12
+ escape escape
+view layers ToUse
+lining_12
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_12.sat
+ mescape
+view layers new
+lining_13
+ escape escape
+view layers ToUse
+lining_13
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_13.sat
+ mescape
+view layers new
+lining_14
+ escape escape
+view layers ToUse
+lining_14
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_14.sat
+ mescape
+view layers new
+lining_15
+ escape escape
+view layers ToUse
+lining_15
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_15.sat
+ mescape
+view layers new
+lining_16
+ escape escape
+view layers ToUse
+lining_16
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_16.sat
+ mescape
+view layers new
+lining_17
+ escape escape
+view layers ToUse
+lining_17
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_17.sat
+ mescape
+view layers new
+lining_18
+ escape escape
+view layers ToUse
+lining_18
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_18.sat
+ mescape
+view layers new
+lining_19
+ escape escape
+view layers ToUse
+lining_19
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_19.sat
+ mescape
+view layers new
+lining_20
+ escape escape
+view layers ToUse
+lining_20
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_20.sat
+ mescape
+view layers new
+lining_21
+ escape escape
+view layers ToUse
+lining_21
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_21.sat
+ mescape
+view layers new
+lining_22
+ escape escape
+view layers ToUse
+lining_22
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_22.sat
+ mescape
+view layers new
+lining_23
+ escape escape
+view layers ToUse
+lining_23
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_23.sat
+ mescape
+view layers new
+lining_24
+ escape escape
+view layers ToUse
+lining_24
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_24.sat
+ mescape
+view layers new
+lining_25
+ escape escape
+view layers ToUse
+lining_25
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_25.sat
+ mescape
+view layers new
+lining_26
+ escape escape
+view layers ToUse
+lining_26
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_26.sat
+ mescape
+view layers new
+lining_27
+ escape escape
+view layers ToUse
+lining_27
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_27.sat
+ mescape
+view layers new
+lining_28
+ escape escape
+view layers ToUse
+lining_28
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_28.sat
+ mescape
+view layers new
+lining_29
+ escape escape
+view layers ToUse
+lining_29
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_29.sat
+ mescape
+view layers new
+lining_30
+ escape escape
+view layers ToUse
+lining_30
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_30.sat
+ mescape
+view layers new
+lining_31
+ escape escape
+view layers ToUse
+lining_31
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_31.sat
+ mescape
+view layers new
+lining_32
+ escape escape
+view layers ToUse
+lining_32
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_32.sat
+ mescape
+view layers new
+lining_33
+ escape escape
+view layers ToUse
+lining_33
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_33.sat
+ mescape
+view layers new
+lining_34
+ escape escape
+view layers ToUse
+lining_34
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_34.sat
+ mescape
+view layers new
+lining_35
+ escape escape
+view layers ToUse
+lining_35
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_35.sat
+ mescape
+view layers new
+lining_36
+ escape escape
+view layers ToUse
+lining_36
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_36.sat
+ mescape
+view layers new
+lining_37
+ escape escape
+view layers ToUse
+lining_37
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_37.sat
+ mescape
+view layers new
+lining_38
+ escape escape
+view layers ToUse
+lining_38
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_38.sat
+ mescape
+view layers new
+lining_39
+ escape escape
+view layers ToUse
+lining_39
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_39.sat
+ mescape
+view layers new
+lining_40
+ escape escape
+view layers ToUse
+lining_40
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_40.sat
+ mescape
+view layers new
+lining_41
+ escape escape
+view layers ToUse
+lining_41
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_41.sat
+ mescape
+view layers new
+lining_42
+ escape escape
+view layers ToUse
+lining_42
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_42.sat
+ mescape
+view layers new
+lining_43
+ escape escape
+view layers ToUse
+lining_43
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_43.sat
+ mescape
+view layers new
+lining_44
+ escape escape
+view layers ToUse
+lining_44
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_44.sat
+ mescape
+view layers new
+lining_45
+ escape escape
+view layers ToUse
+lining_45
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_45.sat
+ mescape
+view layers new
+lining_46
+ escape escape
+view layers ToUse
+lining_46
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_46.sat
+ mescape
+view layers new
+lining_47
+ escape escape
+view layers ToUse
+lining_47
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_47.sat
+ mescape
+view layers new
+lining_48
+ escape escape
+view layers ToUse
+lining_48
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_48.sat
+ mescape
+view layers new
+lining_49
+ escape escape
+view layers ToUse
+lining_49
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_49.sat
+ mescape
+view layers new
+lining_50
+ escape escape
+view layers ToUse
+lining_50
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_50.sat
+ mescape
+view layers new
+lining_51
+ escape escape
+view layers ToUse
+lining_51
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_51.sat
+ mescape
+view layers new
+lining_52
+ escape escape
+view layers ToUse
+lining_52
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_52.sat
+ mescape
+view layers new
+lining_53
+ escape escape
+view layers ToUse
+lining_53
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_53.sat
+ mescape
+view layers new
+lining_54
+ escape escape
+view layers ToUse
+lining_54
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_54.sat
+ mescape
+view layers new
+lining_55
+ escape escape
+view layers ToUse
+lining_55
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_55.sat
+ mescape
+view layers new
+lining_56
+ escape escape
+view layers ToUse
+lining_56
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_56.sat
+ mescape
+view layers new
+lining_57
+ escape escape
+view layers ToUse
+lining_57
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_57.sat
+ mescape
+view layers new
+lining_58
+ escape escape
+view layers ToUse
+lining_58
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_58.sat
+ mescape
+view layers new
+lining_59
+ escape escape
+view layers ToUse
+lining_59
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_59.sat
+ mescape
+view layers new
+lining_60
+ escape escape
+view layers ToUse
+lining_60
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_60.sat
+ mescape
+view layers new
+lining_61
+ escape escape
+view layers ToUse
+lining_61
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_61.sat
+ mescape
+view layers new
+lining_62
+ escape escape
+view layers ToUse
+lining_62
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_62.sat
+ mescape
+view layers new
+lining_63
+ escape escape
+view layers ToUse
+lining_63
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_63.sat
+ mescape
+view layers new
+lining_64
+ escape escape
+view layers ToUse
+lining_64
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_64.sat
+ mescape
+view layers new
+lining_65
+ escape escape
+view layers ToUse
+lining_65
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_65.sat
+ mescape
+view layers new
+lining_66
+ escape escape
+view layers ToUse
+lining_66
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_66.sat
+ mescape
+view layers new
+lining_67
+ escape escape
+view layers ToUse
+lining_67
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_67.sat
+ mescape
+view layers new
+lining_68
+ escape escape
+view layers ToUse
+lining_68
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_68.sat
+ mescape
+view layers new
+lining_69
+ escape escape
+view layers ToUse
+lining_69
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_69.sat
+ mescape
+view layers new
+lining_70
+ escape escape
+view layers ToUse
+lining_70
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_70.sat
+ mescape
+view layers new
+lining_71
+ escape escape
+view layers ToUse
+lining_71
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_71.sat
+ mescape
+view layers new
+lining_72
+ escape escape
+view layers ToUse
+lining_72
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_72.sat
+ mescape
+view layers new
+lining_73
+ escape escape
+view layers ToUse
+lining_73
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_73.sat
+ mescape
+view layers new
+lining_74
+ escape escape
+view layers ToUse
+lining_74
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_74.sat
+ mescape
+view layers new
+lining_75
+ escape escape
+view layers ToUse
+lining_75
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_75.sat
+ mescape
+view layers new
+lining_76
+ escape escape
+view layers ToUse
+lining_76
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_76.sat
+ mescape
+view layers new
+lining_77
+ escape escape
+view layers ToUse
+lining_77
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_77.sat
+ mescape
+view layers new
+lining_78
+ escape escape
+view layers ToUse
+lining_78
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lod3/sat_files/lining/lining_volume_78.sat
+ mescape
+mescape
+Utilities Collapse Model Yes
+mescape
+Geometry Delete Volume
+InvertSelection
+ escape
+ escape
+mescape
+view layers new
+surf 
+ escape escape
+view layers ToUse
+surf 
+ escape escape
+view layers entities
+surf 
+LowerEntities Surfaces
+InvertSelection
+mescape
+mescape
+view layers new
+lines 
+ escape escape
+view layers ToUse
+lines 
+ escape escape
+mescape
+view layers entities
+lines 
+LowerEntities Lines
+1 3 9 10 13 15 17 18 21 23 25 26 29 31 33 34 37 39 41 42 45 47 49 50 53 55 57 58 61 63 65 66 69 71 73 74 77 79 81 82 85 87 89 90 93 95 97 98 101 103 105 106 109 111 113 114 117 119 121 122 125 127 129 130 133 135 137 138 141 143 145 146 149 151 153 154 157 159 161 162 165 167 169 170 173 175 177 178 181 183 185 186 189 191 193 194 197 199 201 202 205 207 209 210 213 215 217 218 221 223 225 226 229 231 233 234 237 239 241 242 245 247 249 250 253 255 257 258 261 263 265 266 269 271 273 274 277 279 281 282 285 287 289 290 293 295 297 298 301 303 305 306 309 311 313 314 317 319 321 322 325 327 329 330 333 335 337 338 341 343 345 346 349 351 353 354 357 359 361 362 365 367 369 370 373 375 377 378 381 383 385 386 389 391 393 394 397 399 401 402 405 407 409 410 413 415 417 418 421 423 425 426 429 431 433 434 437 439 441 442 445 447 449 450 453 455 457 458 461 463 465 466 469 471 473 474 477 479 481 482 485 487 489 490 493 495 497 498 501 503 505 506 509 511 513 514 517 519 521 522 525 527 529 530 533 535 537 538 541 543 545 546 549 551 553 554 557 559 561 562 565 567 569 570 573 575 577 578 581 583 585 586 589 591 593 594 597 599 601 602 605 607 609 610 613 615 617 618 621 623 625 626 
+mescape
+Geometry Create Line Join
+1 8 
+ escape
+2 6 
+ escape
+4 5 
+ escape
+3 7 
+ escape
+9 12 
+ escape
+10 11 
+ escape
+13 16 
+ escape
+14 15 
+ escape
+17 20 
+ escape
+18 19 
+ escape
+21 24 
+ escape
+22 23 
+ escape
+25 28 
+ escape
+26 27 
+ escape
+29 32 
+ escape
+30 31 
+ escape
+33 36 
+ escape
+34 35 
+ escape
+37 40 
+ escape
+38 39 
+ escape
+41 44 
+ escape
+42 43 
+ escape
+45 48 
+ escape
+46 47 
+ escape
+49 52 
+ escape
+50 51 
+ escape
+53 56 
+ escape
+54 55 
+ escape
+57 60 
+ escape
+58 59 
+ escape
+61 64 
+ escape
+62 63 
+ escape
+65 68 
+ escape
+66 67 
+ escape
+69 72 
+ escape
+70 71 
+ escape
+73 76 
+ escape
+74 75 
+ escape
+77 80 
+ escape
+78 79 
+ escape
+81 84 
+ escape
+82 83 
+ escape
+85 88 
+ escape
+86 87 
+ escape
+89 92 
+ escape
+90 91 
+ escape
+93 96 
+ escape
+94 95 
+ escape
+97 100 
+ escape
+98 99 
+ escape
+101 104 
+ escape
+102 103 
+ escape
+105 108 
+ escape
+106 107 
+ escape
+109 112 
+ escape
+110 111 
+ escape
+113 116 
+ escape
+114 115 
+ escape
+117 120 
+ escape
+118 119 
+ escape
+121 124 
+ escape
+122 123 
+ escape
+125 128 
+ escape
+126 127 
+ escape
+129 132 
+ escape
+130 131 
+ escape
+133 136 
+ escape
+134 135 
+ escape
+137 140 
+ escape
+138 139 
+ escape
+141 144 
+ escape
+142 143 
+ escape
+145 148 
+ escape
+146 147 
+ escape
+149 152 
+ escape
+150 151 
+ escape
+153 156 
+ escape
+154 155 
+ escape
+157 160 
+ escape
+158 159 
+ escape
+161 164 
+ escape
+162 163 
+ escape
+165 168 
+ escape
+166 167 
+ escape
+169 172 
+ escape
+170 171 
+ escape
+173 176 
+ escape
+174 175 
+ escape
+177 180 
+ escape
+178 179 
+ escape
+181 184 
+ escape
+182 183 
+ escape
+185 188 
+ escape
+186 187 
+ escape
+189 192 
+ escape
+190 191 
+ escape
+193 196 
+ escape
+194 195 
+ escape
+197 200 
+ escape
+198 199 
+ escape
+201 204 
+ escape
+202 203 
+ escape
+205 208 
+ escape
+206 207 
+ escape
+209 212 
+ escape
+210 211 
+ escape
+213 216 
+ escape
+214 215 
+ escape
+217 220 
+ escape
+218 219 
+ escape
+221 224 
+ escape
+222 223 
+ escape
+225 228 
+ escape
+226 227 
+ escape
+229 232 
+ escape
+230 231 
+ escape
+233 236 
+ escape
+234 235 
+ escape
+237 240 
+ escape
+238 239 
+ escape
+241 244 
+ escape
+242 243 
+ escape
+245 248 
+ escape
+246 247 
+ escape
+249 252 
+ escape
+250 251 
+ escape
+253 256 
+ escape
+254 255 
+ escape
+257 260 
+ escape
+258 259 
+ escape
+261 264 
+ escape
+262 263 
+ escape
+265 268 
+ escape
+266 267 
+ escape
+269 272 
+ escape
+270 271 
+ escape
+273 276 
+ escape
+274 275 
+ escape
+277 280 
+ escape
+278 279 
+ escape
+281 284 
+ escape
+282 283 
+ escape
+285 288 
+ escape
+286 287 
+ escape
+289 292 
+ escape
+290 291 
+ escape
+293 296 
+ escape
+294 295 
+ escape
+297 300 
+ escape
+298 299 
+ escape
+301 304 
+ escape
+302 303 
+ escape
+305 308 
+ escape
+306 307 
+ escape
+309 312 
+ escape
+310 311 
+ escape
+313 316 
+ escape
+314 315 
+ escape
+mescape
+mescape
+View Layers Freeze
+surf 
+mescape
+mescape
+Geometry Create NurbsSurface Automatic 4
+mescape
+mescape
+View Layers UnFreeze
+surf 
+mescape
+view layers new
+lining_surface_0
+ escape escape
+view layers entities
+lining_surface_0
+LowerEntities surfaces
+3 mescape
+view layers new
+lining_surface_1
+ escape escape
+view layers entities
+lining_surface_1
+LowerEntities surfaces
+5
+mescape
+view layers new
+lining_surface_2
+ escape escape
+view layers entities
+lining_surface_2
+LowerEntities surfaces
+10
+mescape
+view layers new
+lining_surface_3
+ escape escape
+view layers entities
+lining_surface_3
+LowerEntities surfaces
+15
+mescape
+view layers new
+lining_surface_4
+ escape escape
+view layers entities
+lining_surface_4
+LowerEntities surfaces
+20
+mescape
+view layers new
+lining_surface_5
+ escape escape
+view layers entities
+lining_surface_5
+LowerEntities surfaces
+25
+mescape
+view layers new
+lining_surface_6
+ escape escape
+view layers entities
+lining_surface_6
+LowerEntities surfaces
+30
+mescape
+view layers new
+lining_surface_7
+ escape escape
+view layers entities
+lining_surface_7
+LowerEntities surfaces
+35
+mescape
+view layers new
+lining_surface_8
+ escape escape
+view layers entities
+lining_surface_8
+LowerEntities surfaces
+40
+mescape
+view layers new
+lining_surface_9
+ escape escape
+view layers entities
+lining_surface_9
+LowerEntities surfaces
+45
+mescape
+view layers new
+lining_surface_10
+ escape escape
+view layers entities
+lining_surface_10
+LowerEntities surfaces
+50
+mescape
+view layers new
+lining_surface_11
+ escape escape
+view layers entities
+lining_surface_11
+LowerEntities surfaces
+55
+mescape
+view layers new
+lining_surface_12
+ escape escape
+view layers entities
+lining_surface_12
+LowerEntities surfaces
+60
+mescape
+view layers new
+lining_surface_13
+ escape escape
+view layers entities
+lining_surface_13
+LowerEntities surfaces
+65
+mescape
+view layers new
+lining_surface_14
+ escape escape
+view layers entities
+lining_surface_14
+LowerEntities surfaces
+70
+mescape
+view layers new
+lining_surface_15
+ escape escape
+view layers entities
+lining_surface_15
+LowerEntities surfaces
+75
+mescape
+view layers new
+lining_surface_16
+ escape escape
+view layers entities
+lining_surface_16
+LowerEntities surfaces
+80
+mescape
+view layers new
+lining_surface_17
+ escape escape
+view layers entities
+lining_surface_17
+LowerEntities surfaces
+85
+mescape
+view layers new
+lining_surface_18
+ escape escape
+view layers entities
+lining_surface_18
+LowerEntities surfaces
+90
+mescape
+view layers new
+lining_surface_19
+ escape escape
+view layers entities
+lining_surface_19
+LowerEntities surfaces
+95
+mescape
+view layers new
+lining_surface_20
+ escape escape
+view layers entities
+lining_surface_20
+LowerEntities surfaces
+100
+mescape
+view layers new
+lining_surface_21
+ escape escape
+view layers entities
+lining_surface_21
+LowerEntities surfaces
+105
+mescape
+view layers new
+lining_surface_22
+ escape escape
+view layers entities
+lining_surface_22
+LowerEntities surfaces
+110
+mescape
+view layers new
+lining_surface_23
+ escape escape
+view layers entities
+lining_surface_23
+LowerEntities surfaces
+115
+mescape
+view layers new
+lining_surface_24
+ escape escape
+view layers entities
+lining_surface_24
+LowerEntities surfaces
+120
+mescape
+view layers new
+lining_surface_25
+ escape escape
+view layers entities
+lining_surface_25
+LowerEntities surfaces
+125
+mescape
+view layers new
+lining_surface_26
+ escape escape
+view layers entities
+lining_surface_26
+LowerEntities surfaces
+130
+mescape
+view layers new
+lining_surface_27
+ escape escape
+view layers entities
+lining_surface_27
+LowerEntities surfaces
+135
+mescape
+view layers new
+lining_surface_28
+ escape escape
+view layers entities
+lining_surface_28
+LowerEntities surfaces
+140
+mescape
+view layers new
+lining_surface_29
+ escape escape
+view layers entities
+lining_surface_29
+LowerEntities surfaces
+145
+mescape
+view layers new
+lining_surface_30
+ escape escape
+view layers entities
+lining_surface_30
+LowerEntities surfaces
+150
+mescape
+view layers new
+lining_surface_31
+ escape escape
+view layers entities
+lining_surface_31
+LowerEntities surfaces
+155
+mescape
+view layers new
+lining_surface_32
+ escape escape
+view layers entities
+lining_surface_32
+LowerEntities surfaces
+160
+mescape
+view layers new
+lining_surface_33
+ escape escape
+view layers entities
+lining_surface_33
+LowerEntities surfaces
+165
+mescape
+view layers new
+lining_surface_34
+ escape escape
+view layers entities
+lining_surface_34
+LowerEntities surfaces
+170
+mescape
+view layers new
+lining_surface_35
+ escape escape
+view layers entities
+lining_surface_35
+LowerEntities surfaces
+175
+mescape
+view layers new
+lining_surface_36
+ escape escape
+view layers entities
+lining_surface_36
+LowerEntities surfaces
+180
+mescape
+view layers new
+lining_surface_37
+ escape escape
+view layers entities
+lining_surface_37
+LowerEntities surfaces
+185
+mescape
+view layers new
+lining_surface_38
+ escape escape
+view layers entities
+lining_surface_38
+LowerEntities surfaces
+190
+mescape
+view layers new
+lining_surface_39
+ escape escape
+view layers entities
+lining_surface_39
+LowerEntities surfaces
+195
+mescape
+view layers new
+lining_surface_40
+ escape escape
+view layers entities
+lining_surface_40
+LowerEntities surfaces
+200
+mescape
+view layers new
+lining_surface_41
+ escape escape
+view layers entities
+lining_surface_41
+LowerEntities surfaces
+205
+mescape
+view layers new
+lining_surface_42
+ escape escape
+view layers entities
+lining_surface_42
+LowerEntities surfaces
+210
+mescape
+view layers new
+lining_surface_43
+ escape escape
+view layers entities
+lining_surface_43
+LowerEntities surfaces
+215
+mescape
+view layers new
+lining_surface_44
+ escape escape
+view layers entities
+lining_surface_44
+LowerEntities surfaces
+220
+mescape
+view layers new
+lining_surface_45
+ escape escape
+view layers entities
+lining_surface_45
+LowerEntities surfaces
+225
+mescape
+view layers new
+lining_surface_46
+ escape escape
+view layers entities
+lining_surface_46
+LowerEntities surfaces
+230
+mescape
+view layers new
+lining_surface_47
+ escape escape
+view layers entities
+lining_surface_47
+LowerEntities surfaces
+235
+mescape
+view layers new
+lining_surface_48
+ escape escape
+view layers entities
+lining_surface_48
+LowerEntities surfaces
+240
+mescape
+view layers new
+lining_surface_49
+ escape escape
+view layers entities
+lining_surface_49
+LowerEntities surfaces
+245
+mescape
+view layers new
+lining_surface_50
+ escape escape
+view layers entities
+lining_surface_50
+LowerEntities surfaces
+250
+mescape
+view layers new
+lining_surface_51
+ escape escape
+view layers entities
+lining_surface_51
+LowerEntities surfaces
+255
+mescape
+view layers new
+lining_surface_52
+ escape escape
+view layers entities
+lining_surface_52
+LowerEntities surfaces
+260
+mescape
+view layers new
+lining_surface_53
+ escape escape
+view layers entities
+lining_surface_53
+LowerEntities surfaces
+265
+mescape
+view layers new
+lining_surface_54
+ escape escape
+view layers entities
+lining_surface_54
+LowerEntities surfaces
+270
+mescape
+view layers new
+lining_surface_55
+ escape escape
+view layers entities
+lining_surface_55
+LowerEntities surfaces
+275
+mescape
+view layers new
+lining_surface_56
+ escape escape
+view layers entities
+lining_surface_56
+LowerEntities surfaces
+280
+mescape
+view layers new
+lining_surface_57
+ escape escape
+view layers entities
+lining_surface_57
+LowerEntities surfaces
+285
+mescape
+view layers new
+lining_surface_58
+ escape escape
+view layers entities
+lining_surface_58
+LowerEntities surfaces
+290
+mescape
+view layers new
+lining_surface_59
+ escape escape
+view layers entities
+lining_surface_59
+LowerEntities surfaces
+295
+mescape
+view layers new
+lining_surface_60
+ escape escape
+view layers entities
+lining_surface_60
+LowerEntities surfaces
+300
+mescape
+view layers new
+lining_surface_61
+ escape escape
+view layers entities
+lining_surface_61
+LowerEntities surfaces
+305
+mescape
+view layers new
+lining_surface_62
+ escape escape
+view layers entities
+lining_surface_62
+LowerEntities surfaces
+310
+mescape
+view layers new
+lining_surface_63
+ escape escape
+view layers entities
+lining_surface_63
+LowerEntities surfaces
+315
+mescape
+view layers new
+lining_surface_64
+ escape escape
+view layers entities
+lining_surface_64
+LowerEntities surfaces
+320
+mescape
+view layers new
+lining_surface_65
+ escape escape
+view layers entities
+lining_surface_65
+LowerEntities surfaces
+325
+mescape
+view layers new
+lining_surface_66
+ escape escape
+view layers entities
+lining_surface_66
+LowerEntities surfaces
+330
+mescape
+view layers new
+lining_surface_67
+ escape escape
+view layers entities
+lining_surface_67
+LowerEntities surfaces
+335
+mescape
+view layers new
+lining_surface_68
+ escape escape
+view layers entities
+lining_surface_68
+LowerEntities surfaces
+340
+mescape
+view layers new
+lining_surface_69
+ escape escape
+view layers entities
+lining_surface_69
+LowerEntities surfaces
+345
+mescape
+view layers new
+lining_surface_70
+ escape escape
+view layers entities
+lining_surface_70
+LowerEntities surfaces
+350
+mescape
+view layers new
+lining_surface_71
+ escape escape
+view layers entities
+lining_surface_71
+LowerEntities surfaces
+355
+mescape
+view layers new
+lining_surface_72
+ escape escape
+view layers entities
+lining_surface_72
+LowerEntities surfaces
+360
+mescape
+view layers new
+lining_surface_73
+ escape escape
+view layers entities
+lining_surface_73
+LowerEntities surfaces
+365
+mescape
+view layers new
+lining_surface_74
+ escape escape
+view layers entities
+lining_surface_74
+LowerEntities surfaces
+370
+mescape
+view layers new
+lining_surface_75
+ escape escape
+view layers entities
+lining_surface_75
+LowerEntities surfaces
+375
+mescape
+view layers new
+lining_surface_76
+ escape escape
+view layers entities
+lining_surface_76
+LowerEntities surfaces
+380
+mescape
+view layers new
+lining_surface_77
+ escape escape
+view layers entities
+lining_surface_77
+LowerEntities surfaces
+385
+mescape
+view layers new
+lining_surface_78
+ escape escape
+view layers entities
+lining_surface_78
+LowerEntities surfaces
+390
+mescape
+view layers new
+lining_outer_surface_1
+ escape escape
+view layers entities
+lining_outer_surface_1
+LowerEntities surfaces
+1 2
+mescape
+view layers new
+lining_outer_surface_2
+ escape escape
+view layers entities
+lining_outer_surface_2
+LowerEntities surfaces
+7 8
+mescape
+view layers new
+lining_outer_surface_3
+ escape escape
+view layers entities
+lining_outer_surface_3
+LowerEntities surfaces
+12 13
+mescape
+view layers new
+lining_outer_surface_4
+ escape escape
+view layers entities
+lining_outer_surface_4
+LowerEntities surfaces
+17 18
+mescape
+view layers new
+lining_outer_surface_5
+ escape escape
+view layers entities
+lining_outer_surface_5
+LowerEntities surfaces
+22 23
+mescape
+view layers new
+lining_outer_surface_6
+ escape escape
+view layers entities
+lining_outer_surface_6
+LowerEntities surfaces
+27 28
+mescape
+view layers new
+lining_outer_surface_7
+ escape escape
+view layers entities
+lining_outer_surface_7
+LowerEntities surfaces
+32 33
+mescape
+view layers new
+lining_outer_surface_8
+ escape escape
+view layers entities
+lining_outer_surface_8
+LowerEntities surfaces
+37 38
+mescape
+view layers new
+lining_outer_surface_9
+ escape escape
+view layers entities
+lining_outer_surface_9
+LowerEntities surfaces
+42 43
+mescape
+view layers new
+lining_outer_surface_10
+ escape escape
+view layers entities
+lining_outer_surface_10
+LowerEntities surfaces
+47 48
+mescape
+view layers new
+lining_outer_surface_11
+ escape escape
+view layers entities
+lining_outer_surface_11
+LowerEntities surfaces
+52 53
+mescape
+view layers new
+lining_outer_surface_12
+ escape escape
+view layers entities
+lining_outer_surface_12
+LowerEntities surfaces
+57 58
+mescape
+view layers new
+lining_outer_surface_13
+ escape escape
+view layers entities
+lining_outer_surface_13
+LowerEntities surfaces
+62 63
+mescape
+view layers new
+lining_outer_surface_14
+ escape escape
+view layers entities
+lining_outer_surface_14
+LowerEntities surfaces
+67 68
+mescape
+view layers new
+lining_outer_surface_15
+ escape escape
+view layers entities
+lining_outer_surface_15
+LowerEntities surfaces
+72 73
+mescape
+view layers new
+lining_outer_surface_16
+ escape escape
+view layers entities
+lining_outer_surface_16
+LowerEntities surfaces
+77 78
+mescape
+view layers new
+lining_outer_surface_17
+ escape escape
+view layers entities
+lining_outer_surface_17
+LowerEntities surfaces
+82 83
+mescape
+view layers new
+lining_outer_surface_18
+ escape escape
+view layers entities
+lining_outer_surface_18
+LowerEntities surfaces
+87 88
+mescape
+view layers new
+lining_outer_surface_19
+ escape escape
+view layers entities
+lining_outer_surface_19
+LowerEntities surfaces
+92 93
+mescape
+view layers new
+lining_outer_surface_20
+ escape escape
+view layers entities
+lining_outer_surface_20
+LowerEntities surfaces
+97 98
+mescape
+view layers new
+lining_outer_surface_21
+ escape escape
+view layers entities
+lining_outer_surface_21
+LowerEntities surfaces
+102 103
+mescape
+view layers new
+lining_outer_surface_22
+ escape escape
+view layers entities
+lining_outer_surface_22
+LowerEntities surfaces
+107 108
+mescape
+view layers new
+lining_outer_surface_23
+ escape escape
+view layers entities
+lining_outer_surface_23
+LowerEntities surfaces
+112 113
+mescape
+view layers new
+lining_outer_surface_24
+ escape escape
+view layers entities
+lining_outer_surface_24
+LowerEntities surfaces
+117 118
+mescape
+view layers new
+lining_outer_surface_25
+ escape escape
+view layers entities
+lining_outer_surface_25
+LowerEntities surfaces
+122 123
+mescape
+view layers new
+lining_outer_surface_26
+ escape escape
+view layers entities
+lining_outer_surface_26
+LowerEntities surfaces
+127 128
+mescape
+view layers new
+lining_outer_surface_27
+ escape escape
+view layers entities
+lining_outer_surface_27
+LowerEntities surfaces
+132 133
+mescape
+view layers new
+lining_outer_surface_28
+ escape escape
+view layers entities
+lining_outer_surface_28
+LowerEntities surfaces
+137 138
+mescape
+view layers new
+lining_outer_surface_29
+ escape escape
+view layers entities
+lining_outer_surface_29
+LowerEntities surfaces
+142 143
+mescape
+view layers new
+lining_outer_surface_30
+ escape escape
+view layers entities
+lining_outer_surface_30
+LowerEntities surfaces
+147 148
+mescape
+view layers new
+lining_outer_surface_31
+ escape escape
+view layers entities
+lining_outer_surface_31
+LowerEntities surfaces
+152 153
+mescape
+view layers new
+lining_outer_surface_32
+ escape escape
+view layers entities
+lining_outer_surface_32
+LowerEntities surfaces
+157 158
+mescape
+view layers new
+lining_outer_surface_33
+ escape escape
+view layers entities
+lining_outer_surface_33
+LowerEntities surfaces
+162 163
+mescape
+view layers new
+lining_outer_surface_34
+ escape escape
+view layers entities
+lining_outer_surface_34
+LowerEntities surfaces
+167 168
+mescape
+view layers new
+lining_outer_surface_35
+ escape escape
+view layers entities
+lining_outer_surface_35
+LowerEntities surfaces
+172 173
+mescape
+view layers new
+lining_outer_surface_36
+ escape escape
+view layers entities
+lining_outer_surface_36
+LowerEntities surfaces
+177 178
+mescape
+view layers new
+lining_outer_surface_37
+ escape escape
+view layers entities
+lining_outer_surface_37
+LowerEntities surfaces
+182 183
+mescape
+view layers new
+lining_outer_surface_38
+ escape escape
+view layers entities
+lining_outer_surface_38
+LowerEntities surfaces
+187 188
+mescape
+view layers new
+lining_outer_surface_39
+ escape escape
+view layers entities
+lining_outer_surface_39
+LowerEntities surfaces
+192 193
+mescape
+view layers new
+lining_outer_surface_40
+ escape escape
+view layers entities
+lining_outer_surface_40
+LowerEntities surfaces
+197 198
+mescape
+view layers new
+lining_outer_surface_41
+ escape escape
+view layers entities
+lining_outer_surface_41
+LowerEntities surfaces
+202 203
+mescape
+view layers new
+lining_outer_surface_42
+ escape escape
+view layers entities
+lining_outer_surface_42
+LowerEntities surfaces
+207 208
+mescape
+view layers new
+lining_outer_surface_43
+ escape escape
+view layers entities
+lining_outer_surface_43
+LowerEntities surfaces
+212 213
+mescape
+view layers new
+lining_outer_surface_44
+ escape escape
+view layers entities
+lining_outer_surface_44
+LowerEntities surfaces
+217 218
+mescape
+view layers new
+lining_outer_surface_45
+ escape escape
+view layers entities
+lining_outer_surface_45
+LowerEntities surfaces
+222 223
+mescape
+view layers new
+lining_outer_surface_46
+ escape escape
+view layers entities
+lining_outer_surface_46
+LowerEntities surfaces
+227 228
+mescape
+view layers new
+lining_outer_surface_47
+ escape escape
+view layers entities
+lining_outer_surface_47
+LowerEntities surfaces
+232 233
+mescape
+view layers new
+lining_outer_surface_48
+ escape escape
+view layers entities
+lining_outer_surface_48
+LowerEntities surfaces
+237 238
+mescape
+view layers new
+lining_outer_surface_49
+ escape escape
+view layers entities
+lining_outer_surface_49
+LowerEntities surfaces
+242 243
+mescape
+view layers new
+lining_outer_surface_50
+ escape escape
+view layers entities
+lining_outer_surface_50
+LowerEntities surfaces
+247 248
+mescape
+view layers new
+lining_outer_surface_51
+ escape escape
+view layers entities
+lining_outer_surface_51
+LowerEntities surfaces
+252 253
+mescape
+view layers new
+lining_outer_surface_52
+ escape escape
+view layers entities
+lining_outer_surface_52
+LowerEntities surfaces
+257 258
+mescape
+view layers new
+lining_outer_surface_53
+ escape escape
+view layers entities
+lining_outer_surface_53
+LowerEntities surfaces
+262 263
+mescape
+view layers new
+lining_outer_surface_54
+ escape escape
+view layers entities
+lining_outer_surface_54
+LowerEntities surfaces
+267 268
+mescape
+view layers new
+lining_outer_surface_55
+ escape escape
+view layers entities
+lining_outer_surface_55
+LowerEntities surfaces
+272 273
+mescape
+view layers new
+lining_outer_surface_56
+ escape escape
+view layers entities
+lining_outer_surface_56
+LowerEntities surfaces
+277 278
+mescape
+view layers new
+lining_outer_surface_57
+ escape escape
+view layers entities
+lining_outer_surface_57
+LowerEntities surfaces
+282 283
+mescape
+view layers new
+lining_outer_surface_58
+ escape escape
+view layers entities
+lining_outer_surface_58
+LowerEntities surfaces
+287 288
+mescape
+view layers new
+lining_outer_surface_59
+ escape escape
+view layers entities
+lining_outer_surface_59
+LowerEntities surfaces
+292 293
+mescape
+view layers new
+lining_outer_surface_60
+ escape escape
+view layers entities
+lining_outer_surface_60
+LowerEntities surfaces
+297 298
+mescape
+view layers new
+lining_outer_surface_61
+ escape escape
+view layers entities
+lining_outer_surface_61
+LowerEntities surfaces
+302 303
+mescape
+view layers new
+lining_outer_surface_62
+ escape escape
+view layers entities
+lining_outer_surface_62
+LowerEntities surfaces
+307 308
+mescape
+view layers new
+lining_outer_surface_63
+ escape escape
+view layers entities
+lining_outer_surface_63
+LowerEntities surfaces
+312 313
+mescape
+view layers new
+lining_outer_surface_64
+ escape escape
+view layers entities
+lining_outer_surface_64
+LowerEntities surfaces
+317 318
+mescape
+view layers new
+lining_outer_surface_65
+ escape escape
+view layers entities
+lining_outer_surface_65
+LowerEntities surfaces
+322 323
+mescape
+view layers new
+lining_outer_surface_66
+ escape escape
+view layers entities
+lining_outer_surface_66
+LowerEntities surfaces
+327 328
+mescape
+view layers new
+lining_outer_surface_67
+ escape escape
+view layers entities
+lining_outer_surface_67
+LowerEntities surfaces
+332 333
+mescape
+view layers new
+lining_outer_surface_68
+ escape escape
+view layers entities
+lining_outer_surface_68
+LowerEntities surfaces
+337 338
+mescape
+view layers new
+lining_outer_surface_69
+ escape escape
+view layers entities
+lining_outer_surface_69
+LowerEntities surfaces
+342 343
+mescape
+view layers new
+lining_outer_surface_70
+ escape escape
+view layers entities
+lining_outer_surface_70
+LowerEntities surfaces
+347 348
+mescape
+view layers new
+lining_outer_surface_71
+ escape escape
+view layers entities
+lining_outer_surface_71
+LowerEntities surfaces
+352 353
+mescape
+view layers new
+lining_outer_surface_72
+ escape escape
+view layers entities
+lining_outer_surface_72
+LowerEntities surfaces
+357 358
+mescape
+view layers new
+lining_outer_surface_73
+ escape escape
+view layers entities
+lining_outer_surface_73
+LowerEntities surfaces
+362 363
+mescape
+view layers new
+lining_outer_surface_74
+ escape escape
+view layers entities
+lining_outer_surface_74
+LowerEntities surfaces
+367 368
+mescape
+view layers new
+lining_outer_surface_75
+ escape escape
+view layers entities
+lining_outer_surface_75
+LowerEntities surfaces
+372 373
+mescape
+view layers new
+lining_outer_surface_76
+ escape escape
+view layers entities
+lining_outer_surface_76
+LowerEntities surfaces
+377 378
+mescape
+view layers new
+lining_outer_surface_77
+ escape escape
+view layers entities
+lining_outer_surface_77
+LowerEntities surfaces
+382 383
+mescape
+view layers new
+lining_outer_surface_78
+ escape escape
+view layers entities
+lining_outer_surface_78
+LowerEntities surfaces
+387 388
+mescape
+
+mescape
+mescape
+Geometry Create IntMultSurfs
+InvertSelection
+mescape
+mescape
+Utilities Collapse Model Yes
+mescape
+Geometry Create Volume AutomaticStruct
+mescape
+mescape
+mescape
+Files Save
+mescape
+view layers ToUse
+lining_1
+ escape escape
+view layers entities
+lining_1
+Volumes
+1 2 
+mescape
+mescape
+view layers ToUse
+lining_2
+ escape escape
+view layers entities
+lining_2
+Volumes
+3 4 
+mescape
+mescape
+view layers ToUse
+lining_3
+ escape escape
+view layers entities
+lining_3
+Volumes
+5 6 
+mescape
+mescape
+view layers ToUse
+lining_4
+ escape escape
+view layers entities
+lining_4
+Volumes
+7 8 
+mescape
+mescape
+view layers ToUse
+lining_5
+ escape escape
+view layers entities
+lining_5
+Volumes
+9 10 
+mescape
+mescape
+view layers ToUse
+lining_6
+ escape escape
+view layers entities
+lining_6
+Volumes
+11 12 
+mescape
+mescape
+view layers ToUse
+lining_7
+ escape escape
+view layers entities
+lining_7
+Volumes
+13 14 
+mescape
+mescape
+view layers ToUse
+lining_8
+ escape escape
+view layers entities
+lining_8
+Volumes
+15 16 
+mescape
+mescape
+view layers ToUse
+lining_9
+ escape escape
+view layers entities
+lining_9
+Volumes
+17 18 
+mescape
+mescape
+view layers ToUse
+lining_10
+ escape escape
+view layers entities
+lining_10
+Volumes
+19 20 
+mescape
+mescape
+view layers ToUse
+lining_11
+ escape escape
+view layers entities
+lining_11
+Volumes
+21 22 
+mescape
+mescape
+view layers ToUse
+lining_12
+ escape escape
+view layers entities
+lining_12
+Volumes
+23 24 
+mescape
+mescape
+view layers ToUse
+lining_13
+ escape escape
+view layers entities
+lining_13
+Volumes
+25 26 
+mescape
+mescape
+view layers ToUse
+lining_14
+ escape escape
+view layers entities
+lining_14
+Volumes
+27 28 
+mescape
+mescape
+view layers ToUse
+lining_15
+ escape escape
+view layers entities
+lining_15
+Volumes
+29 30 
+mescape
+mescape
+view layers ToUse
+lining_16
+ escape escape
+view layers entities
+lining_16
+Volumes
+31 32 
+mescape
+mescape
+view layers ToUse
+lining_17
+ escape escape
+view layers entities
+lining_17
+Volumes
+33 34 
+mescape
+mescape
+view layers ToUse
+lining_18
+ escape escape
+view layers entities
+lining_18
+Volumes
+35 36 
+mescape
+mescape
+view layers ToUse
+lining_19
+ escape escape
+view layers entities
+lining_19
+Volumes
+37 38 
+mescape
+mescape
+view layers ToUse
+lining_20
+ escape escape
+view layers entities
+lining_20
+Volumes
+39 40 
+mescape
+mescape
+view layers ToUse
+lining_21
+ escape escape
+view layers entities
+lining_21
+Volumes
+41 42 
+mescape
+mescape
+view layers ToUse
+lining_22
+ escape escape
+view layers entities
+lining_22
+Volumes
+43 44 
+mescape
+mescape
+view layers ToUse
+lining_23
+ escape escape
+view layers entities
+lining_23
+Volumes
+45 46 
+mescape
+mescape
+view layers ToUse
+lining_24
+ escape escape
+view layers entities
+lining_24
+Volumes
+47 48 
+mescape
+mescape
+view layers ToUse
+lining_25
+ escape escape
+view layers entities
+lining_25
+Volumes
+49 50 
+mescape
+mescape
+view layers ToUse
+lining_26
+ escape escape
+view layers entities
+lining_26
+Volumes
+51 52 
+mescape
+mescape
+view layers ToUse
+lining_27
+ escape escape
+view layers entities
+lining_27
+Volumes
+53 54 
+mescape
+mescape
+view layers ToUse
+lining_28
+ escape escape
+view layers entities
+lining_28
+Volumes
+55 56 
+mescape
+mescape
+view layers ToUse
+lining_29
+ escape escape
+view layers entities
+lining_29
+Volumes
+57 58 
+mescape
+mescape
+view layers ToUse
+lining_30
+ escape escape
+view layers entities
+lining_30
+Volumes
+59 60 
+mescape
+mescape
+view layers ToUse
+lining_31
+ escape escape
+view layers entities
+lining_31
+Volumes
+61 62 
+mescape
+mescape
+view layers ToUse
+lining_32
+ escape escape
+view layers entities
+lining_32
+Volumes
+63 64 
+mescape
+mescape
+view layers ToUse
+lining_33
+ escape escape
+view layers entities
+lining_33
+Volumes
+65 66 
+mescape
+mescape
+view layers ToUse
+lining_34
+ escape escape
+view layers entities
+lining_34
+Volumes
+67 68 
+mescape
+mescape
+view layers ToUse
+lining_35
+ escape escape
+view layers entities
+lining_35
+Volumes
+69 70 
+mescape
+mescape
+view layers ToUse
+lining_36
+ escape escape
+view layers entities
+lining_36
+Volumes
+71 72 
+mescape
+mescape
+view layers ToUse
+lining_37
+ escape escape
+view layers entities
+lining_37
+Volumes
+73 74 
+mescape
+mescape
+view layers ToUse
+lining_38
+ escape escape
+view layers entities
+lining_38
+Volumes
+75 76 
+mescape
+mescape
+view layers ToUse
+lining_39
+ escape escape
+view layers entities
+lining_39
+Volumes
+77 78 
+mescape
+mescape
+view layers ToUse
+lining_40
+ escape escape
+view layers entities
+lining_40
+Volumes
+79 80 
+mescape
+mescape
+view layers ToUse
+lining_41
+ escape escape
+view layers entities
+lining_41
+Volumes
+81 82 
+mescape
+mescape
+view layers ToUse
+lining_42
+ escape escape
+view layers entities
+lining_42
+Volumes
+83 84 
+mescape
+mescape
+view layers ToUse
+lining_43
+ escape escape
+view layers entities
+lining_43
+Volumes
+85 86 
+mescape
+mescape
+view layers ToUse
+lining_44
+ escape escape
+view layers entities
+lining_44
+Volumes
+87 88 
+mescape
+mescape
+view layers ToUse
+lining_45
+ escape escape
+view layers entities
+lining_45
+Volumes
+89 90 
+mescape
+mescape
+view layers ToUse
+lining_46
+ escape escape
+view layers entities
+lining_46
+Volumes
+91 92 
+mescape
+mescape
+view layers ToUse
+lining_47
+ escape escape
+view layers entities
+lining_47
+Volumes
+93 94 
+mescape
+mescape
+view layers ToUse
+lining_48
+ escape escape
+view layers entities
+lining_48
+Volumes
+95 96 
+mescape
+mescape
+view layers ToUse
+lining_49
+ escape escape
+view layers entities
+lining_49
+Volumes
+97 98 
+mescape
+mescape
+view layers ToUse
+lining_50
+ escape escape
+view layers entities
+lining_50
+Volumes
+99 100 
+mescape
+mescape
+view layers ToUse
+lining_51
+ escape escape
+view layers entities
+lining_51
+Volumes
+101 102 
+mescape
+mescape
+view layers ToUse
+lining_52
+ escape escape
+view layers entities
+lining_52
+Volumes
+103 104 
+mescape
+mescape
+view layers ToUse
+lining_53
+ escape escape
+view layers entities
+lining_53
+Volumes
+105 106 
+mescape
+mescape
+view layers ToUse
+lining_54
+ escape escape
+view layers entities
+lining_54
+Volumes
+107 108 
+mescape
+mescape
+view layers ToUse
+lining_55
+ escape escape
+view layers entities
+lining_55
+Volumes
+109 110 
+mescape
+mescape
+view layers ToUse
+lining_56
+ escape escape
+view layers entities
+lining_56
+Volumes
+111 112 
+mescape
+mescape
+view layers ToUse
+lining_57
+ escape escape
+view layers entities
+lining_57
+Volumes
+113 114 
+mescape
+mescape
+view layers ToUse
+lining_58
+ escape escape
+view layers entities
+lining_58
+Volumes
+115 116 
+mescape
+mescape
+view layers ToUse
+lining_59
+ escape escape
+view layers entities
+lining_59
+Volumes
+117 118 
+mescape
+mescape
+view layers ToUse
+lining_60
+ escape escape
+view layers entities
+lining_60
+Volumes
+119 120 
+mescape
+mescape
+view layers ToUse
+lining_61
+ escape escape
+view layers entities
+lining_61
+Volumes
+121 122 
+mescape
+mescape
+view layers ToUse
+lining_62
+ escape escape
+view layers entities
+lining_62
+Volumes
+123 124 
+mescape
+mescape
+view layers ToUse
+lining_63
+ escape escape
+view layers entities
+lining_63
+Volumes
+125 126 
+mescape
+mescape
+view layers ToUse
+lining_64
+ escape escape
+view layers entities
+lining_64
+Volumes
+127 128 
+mescape
+mescape
+view layers ToUse
+lining_65
+ escape escape
+view layers entities
+lining_65
+Volumes
+129 130 
+mescape
+mescape
+view layers ToUse
+lining_66
+ escape escape
+view layers entities
+lining_66
+Volumes
+131 132 
+mescape
+mescape
+view layers ToUse
+lining_67
+ escape escape
+view layers entities
+lining_67
+Volumes
+133 134 
+mescape
+mescape
+view layers ToUse
+lining_68
+ escape escape
+view layers entities
+lining_68
+Volumes
+135 136 
+mescape
+mescape
+view layers ToUse
+lining_69
+ escape escape
+view layers entities
+lining_69
+Volumes
+137 138 
+mescape
+mescape
+view layers ToUse
+lining_70
+ escape escape
+view layers entities
+lining_70
+Volumes
+139 140 
+mescape
+mescape
+view layers ToUse
+lining_71
+ escape escape
+view layers entities
+lining_71
+Volumes
+141 142 
+mescape
+mescape
+view layers ToUse
+lining_72
+ escape escape
+view layers entities
+lining_72
+Volumes
+143 144 
+mescape
+mescape
+view layers ToUse
+lining_73
+ escape escape
+view layers entities
+lining_73
+Volumes
+145 146 
+mescape
+mescape
+view layers ToUse
+lining_74
+ escape escape
+view layers entities
+lining_74
+Volumes
+147 148 
+mescape
+mescape
+view layers ToUse
+lining_75
+ escape escape
+view layers entities
+lining_75
+Volumes
+149 150 
+mescape
+mescape
+view layers ToUse
+lining_76
+ escape escape
+view layers entities
+lining_76
+Volumes
+151 152 
+mescape
+mescape
+view layers ToUse
+lining_77
+ escape escape
+view layers entities
+lining_77
+Volumes
+153 154 
+mescape
+mescape
+view layers ToUse
+lining_78
+ escape escape
+view layers entities
+lining_78
+Volumes
+155 156 
+mescape
+view layers ToUse
+lining_surface_outside 
+ escape escape
+view layers entities
+lining_surface_outside 
+LowerEntities Surfaces
+layer:lining_surface_outside
+mescape
+Geometry Edit ConvToNurbsL
+InvertSelection
+ escape
+ Yes
+mescape
+mescape
+Meshing ElemType Hexahedra
+InvertSelection
+ escape
+ escape
+mescape
+Meshing Structured Volumes
+InvertSelection
+ escape
+ 1
+InvertSelection
+ escape
+ escape
+mescape
+Meshing Structured Lines 6
+InvertSelection
+ escape
+mescape
+mescape
+Meshing Structured Lines 1
+1 3 9 10 13 15 17 18 21 23 25 26 29 31 33 34 37 39 41 42 45 47 49 50 53 55 57 58 61 63 65 66 69 71 73 74 77 79 81 82 85 87 89 90 93 95 97 98 101 103 105 106 109 111 113 114 117 119 121 122 125 127 129 130 133 135 137 138 141 143 145 146 149 151 153 154 157 159 161 162 165 167 169 170 173 175 177 178 181 183 185 186 189 191 193 194 197 199 201 202 205 207 209 210 213 215 217 218 221 223 225 226 229 231 233 234 237 239 241 242 245 247 249 250 253 255 257 258 261 263 265 266 269 271 273 274 277 279 281 282 285 287 289 290 293 295 297 298 301 303 305 306 309 311 313 314 317 319 321 322 325 327 329 330 333 335 337 338 341 343 345 346 349 351 353 354 357 359 361 362 365 367 369 370 373 375 377 378 381 383 385 386 389 391 393 394 397 399 401 402 405 407 409 410 413 415 417 418 421 423 425 426 429 431 433 434 437 439 441 442 445 447 449 450 453 455 457 458 461 463 465 466 469 471 473 474 477 479 481 482 485 487 489 490 493 495 497 498 501 503 505 506 509 511 513 514 517 519 521 522 525 527 529 530 533 535 537 538 541 543 545 546 549 551 553 554 557 559 561 562 565 567 569 570 573 575 577 578 581 583 585 586 589 591 593 594 597 599 601 602 605 607 609 610 613 615 617 618 621 623 625 626 629 630 631 632 633 634 635 636 637 638 639 640 641 642 643 644 645 646 647 648 649 650 651 652 653 654 655 656 657 658 659 660 661 662 663 664 665 666 667 668 669 670 671 672 673 674 675 676 677 678 679 680 681 682 683 684 685 686 687 688 689 690 691 692 693 694 695 696 697 698 699 700 701 702 703 704 705 706 707 708 709 710 711 712 713 714 715 716 717 718 719 720 721 722 723 724 725 726 727 728 729 730 731 732 733 734 735 736 737 738 739 740 741 742 743 744 745 746 747 748 749 750 751 752 753 754 755 756 757 758 759 760 761 762 763 764 765 766 767 768 769 770 771 772 773 774 775 776 777 778 779 780 781 782 783 784 785 786 
+mescape
+mescape
+Utilities Variables Model(QuadraticType) 1
+mescape
+Meshing Generate
+DefaultSize
+mescape
+Files Save
+Quit

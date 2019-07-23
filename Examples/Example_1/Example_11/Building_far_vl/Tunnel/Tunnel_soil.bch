@@ -1,0 +1,369 @@
+mescape
+mescape
+Files SaveAs D:/git-satbim_internal/Example_1/Building_far_vl/Tunnel/Tunnel_ground_model.gid
+mescape
+mescape
+mescape
+Utilities Variables ImportTolerance 70.0 AutoImportTolerance 0
+mescape
+view layers new
+ground
+ escape escape
+view layers ToUse
+ground
+ escape escape
+Files AcisRead D:/git-satbim_internal/Example_1/Building_far_vl/sat_files/excavation_soil/excavation_soil_volume.sat
+ mescape
+mescape
+view layers new
+Excavation_surface
+ escape escape
+view layers ToUse
+Excavation_surface
+ escape escape
+Layers Entities
+Excavation_surface
+LowerEntities Surfaces
+mescape
+view layers new
+surface 
+ escape escape
+view layers ToUse
+surface 
+ escape escape
+Layers Entities
+surface 
+LowerEntities Surfaces
+32 mescape
+view layers new
+excavation_surface_1
+ escape escape
+view layers ToUse
+excavation_surface_1
+ escape escape
+Layers Entities
+excavation_surface_1
+LowerEntities Surfaces
+31 mescape
+view layers new
+excavation_surface_2
+ escape escape
+view layers ToUse
+excavation_surface_2
+ escape escape
+Layers Entities
+excavation_surface_2
+LowerEntities Surfaces
+30 mescape
+view layers new
+excavation_surface_3
+ escape escape
+view layers ToUse
+excavation_surface_3
+ escape escape
+Layers Entities
+excavation_surface_3
+LowerEntities Surfaces
+29 mescape
+view layers new
+excavation_surface_4
+ escape escape
+view layers ToUse
+excavation_surface_4
+ escape escape
+Layers Entities
+excavation_surface_4
+LowerEntities Surfaces
+28 mescape
+view layers new
+excavation_surface_5
+ escape escape
+view layers ToUse
+excavation_surface_5
+ escape escape
+Layers Entities
+excavation_surface_5
+LowerEntities Surfaces
+27 mescape
+view layers new
+excavation_surface_6
+ escape escape
+view layers ToUse
+excavation_surface_6
+ escape escape
+Layers Entities
+excavation_surface_6
+LowerEntities Surfaces
+26 mescape
+view layers new
+excavation_surface_7
+ escape escape
+view layers ToUse
+excavation_surface_7
+ escape escape
+Layers Entities
+excavation_surface_7
+LowerEntities Surfaces
+25 mescape
+view layers new
+excavation_surface_8
+ escape escape
+view layers ToUse
+excavation_surface_8
+ escape escape
+Layers Entities
+excavation_surface_8
+LowerEntities Surfaces
+24 mescape
+view layers new
+excavation_surface_9
+ escape escape
+view layers ToUse
+excavation_surface_9
+ escape escape
+Layers Entities
+excavation_surface_9
+LowerEntities Surfaces
+23 mescape
+view layers new
+excavation_surface_10
+ escape escape
+view layers ToUse
+excavation_surface_10
+ escape escape
+Layers Entities
+excavation_surface_10
+LowerEntities Surfaces
+22 mescape
+view layers new
+excavation_surface_11
+ escape escape
+view layers ToUse
+excavation_surface_11
+ escape escape
+Layers Entities
+excavation_surface_11
+LowerEntities Surfaces
+21 mescape
+view layers new
+excavation_surface_12
+ escape escape
+view layers ToUse
+excavation_surface_12
+ escape escape
+Layers Entities
+excavation_surface_12
+LowerEntities Surfaces
+20 mescape
+view layers new
+excavation_surface_13
+ escape escape
+view layers ToUse
+excavation_surface_13
+ escape escape
+Layers Entities
+excavation_surface_13
+LowerEntities Surfaces
+19 mescape
+view layers new
+excavation_surface_14
+ escape escape
+view layers ToUse
+excavation_surface_14
+ escape escape
+Layers Entities
+excavation_surface_14
+LowerEntities Surfaces
+18 mescape
+view layers new
+excavation_surface_15
+ escape escape
+view layers ToUse
+excavation_surface_15
+ escape escape
+Layers Entities
+excavation_surface_15
+LowerEntities Surfaces
+17 mescape
+view layers new
+excavation_surface_16
+ escape escape
+view layers ToUse
+excavation_surface_16
+ escape escape
+Layers Entities
+excavation_surface_16
+LowerEntities Surfaces
+16 mescape
+view layers new
+excavation_surface_17
+ escape escape
+view layers ToUse
+excavation_surface_17
+ escape escape
+Layers Entities
+excavation_surface_17
+LowerEntities Surfaces
+15 mescape
+view layers new
+excavation_surface_18
+ escape escape
+view layers ToUse
+excavation_surface_18
+ escape escape
+Layers Entities
+excavation_surface_18
+LowerEntities Surfaces
+14 mescape
+view layers new
+excavation_surface_19
+ escape escape
+view layers ToUse
+excavation_surface_19
+ escape escape
+Layers Entities
+excavation_surface_19
+LowerEntities Surfaces
+13 mescape
+view layers new
+excavation_surface_20
+ escape escape
+view layers ToUse
+excavation_surface_20
+ escape escape
+Layers Entities
+excavation_surface_20
+LowerEntities Surfaces
+12 mescape
+view layers new
+excavation_surface_21
+ escape escape
+view layers ToUse
+excavation_surface_21
+ escape escape
+Layers Entities
+excavation_surface_21
+LowerEntities Surfaces
+11 mescape
+view layers new
+excavation_surface_22
+ escape escape
+view layers ToUse
+excavation_surface_22
+ escape escape
+Layers Entities
+excavation_surface_22
+LowerEntities Surfaces
+10 mescape
+view layers new
+excavation_surface_23
+ escape escape
+view layers ToUse
+excavation_surface_23
+ escape escape
+Layers Entities
+excavation_surface_23
+LowerEntities Surfaces
+9 mescape
+view layers new
+excavation_surface_24
+ escape escape
+view layers ToUse
+excavation_surface_24
+ escape escape
+Layers Entities
+excavation_surface_24
+LowerEntities Surfaces
+8 mescape
+view layers new
+excavation_surface_25
+ escape escape
+view layers ToUse
+excavation_surface_25
+ escape escape
+Layers Entities
+excavation_surface_25
+LowerEntities Surfaces
+7 mescape
+view layers new
+excavation_surface_26
+ escape escape
+view layers ToUse
+excavation_surface_26
+ escape escape
+Layers Entities
+excavation_surface_26
+LowerEntities Surfaces
+6 mescape
+view layers new
+excavation_surface_27
+ escape escape
+view layers ToUse
+excavation_surface_27
+ escape escape
+Layers Entities
+excavation_surface_27
+LowerEntities Surfaces
+5 mescape
+view layers new
+excavation_surface_28
+ escape escape
+view layers ToUse
+excavation_surface_28
+ escape escape
+Layers Entities
+excavation_surface_28
+LowerEntities Surfaces
+4 mescape
+view layers new
+excavation_surface_29
+ escape escape
+view layers ToUse
+excavation_surface_29
+ escape escape
+Layers Entities
+excavation_surface_29
+LowerEntities Surfaces
+3 mescape
+view layers new
+excavation_surface_30
+ escape escape
+view layers ToUse
+excavation_surface_30
+ escape escape
+Layers Entities
+excavation_surface_30
+LowerEntities Surfaces
+2 
+ mescape
+mescape
+Utilities Variables ImportTolerance 175.0 AutoImportTolerance 0
+mescape
+mescape
+mescape
+Meshing Structured Lines 1
+3 5 7 9 11 13 15 17 19 21 23 25 27 29 31 33 35 37 39 41 43 45 47 49 51 53 55 57 59 61 
+mescape
+Meshing Structured Lines 12
+1 2 4 6 8 10 12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 42 44 46 48 50 52 54 56 58 60 
+mescape
+mescape
+Utilities Repair Yes
+mescape
+mescape
+Utilities Collapse Model Yes
+mescape
+mescape
+mescape
+Utilities Repair Yes
+mescape
+mescape
+Utilities Collapse Model Yes
+mescape
+mescape
+Meshing
+ Generate
+1000 escape
+ escape
+Files Save
+Quit

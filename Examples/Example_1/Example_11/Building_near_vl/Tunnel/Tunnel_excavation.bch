@@ -1,0 +1,519 @@
+mescape
+Files SaveAs D:/git-satbim_internal/Examples/Metamodel/Model_1/Tunnel/Tunnel_excavation_model.gid
+mescape
+view layers new
+excavation_1
+ escape escape
+view layers ToUse
+excavation_1
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples/Metamodel/Model_1/sat_files\excavation\excavation_volume_1.sat
+ mescape
+view layers new
+excavation_2
+ escape escape
+view layers ToUse
+excavation_2
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples/Metamodel/Model_1/sat_files\excavation\excavation_volume_2.sat
+ mescape
+view layers new
+excavation_3
+ escape escape
+view layers ToUse
+excavation_3
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples/Metamodel/Model_1/sat_files\excavation\excavation_volume_3.sat
+ mescape
+view layers new
+excavation_4
+ escape escape
+view layers ToUse
+excavation_4
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples/Metamodel/Model_1/sat_files\excavation\excavation_volume_4.sat
+ mescape
+view layers new
+excavation_5
+ escape escape
+view layers ToUse
+excavation_5
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples/Metamodel/Model_1/sat_files\excavation\excavation_volume_5.sat
+ mescape
+view layers new
+excavation_6
+ escape escape
+view layers ToUse
+excavation_6
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples/Metamodel/Model_1/sat_files\excavation\excavation_volume_6.sat
+ mescape
+view layers new
+excavation_7
+ escape escape
+view layers ToUse
+excavation_7
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples/Metamodel/Model_1/sat_files\excavation\excavation_volume_7.sat
+ mescape
+view layers new
+excavation_8
+ escape escape
+view layers ToUse
+excavation_8
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples/Metamodel/Model_1/sat_files\excavation\excavation_volume_8.sat
+ mescape
+view layers new
+excavation_9
+ escape escape
+view layers ToUse
+excavation_9
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples/Metamodel/Model_1/sat_files\excavation\excavation_volume_9.sat
+ mescape
+view layers new
+excavation_10
+ escape escape
+view layers ToUse
+excavation_10
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples/Metamodel/Model_1/sat_files\excavation\excavation_volume_10.sat
+ mescape
+view layers new
+excavation_11
+ escape escape
+view layers ToUse
+excavation_11
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples/Metamodel/Model_1/sat_files\excavation\excavation_volume_11.sat
+ mescape
+view layers new
+excavation_12
+ escape escape
+view layers ToUse
+excavation_12
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples/Metamodel/Model_1/sat_files\excavation\excavation_volume_12.sat
+ mescape
+view layers new
+excavation_13
+ escape escape
+view layers ToUse
+excavation_13
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples/Metamodel/Model_1/sat_files\excavation\excavation_volume_13.sat
+ mescape
+view layers new
+excavation_14
+ escape escape
+view layers ToUse
+excavation_14
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples/Metamodel/Model_1/sat_files\excavation\excavation_volume_14.sat
+ mescape
+view layers new
+excavation_15
+ escape escape
+view layers ToUse
+excavation_15
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples/Metamodel/Model_1/sat_files\excavation\excavation_volume_15.sat
+ mescape
+view layers new
+excavation_16
+ escape escape
+view layers ToUse
+excavation_16
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples/Metamodel/Model_1/sat_files\excavation\excavation_volume_16.sat
+ mescape
+view layers new
+excavation_17
+ escape escape
+view layers ToUse
+excavation_17
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples/Metamodel/Model_1/sat_files\excavation\excavation_volume_17.sat
+ mescape
+view layers new
+excavation_18
+ escape escape
+view layers ToUse
+excavation_18
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples/Metamodel/Model_1/sat_files\excavation\excavation_volume_18.sat
+ mescape
+view layers new
+excavation_19
+ escape escape
+view layers ToUse
+excavation_19
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples/Metamodel/Model_1/sat_files\excavation\excavation_volume_19.sat
+ mescape
+view layers new
+excavation_20
+ escape escape
+view layers ToUse
+excavation_20
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples/Metamodel/Model_1/sat_files\excavation\excavation_volume_20.sat
+ mescape
+view layers new
+excavation_21
+ escape escape
+view layers ToUse
+excavation_21
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples/Metamodel/Model_1/sat_files\excavation\excavation_volume_21.sat
+ mescape
+view layers new
+excavation_22
+ escape escape
+view layers ToUse
+excavation_22
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples/Metamodel/Model_1/sat_files\excavation\excavation_volume_22.sat
+ mescape
+view layers new
+excavation_23
+ escape escape
+view layers ToUse
+excavation_23
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples/Metamodel/Model_1/sat_files\excavation\excavation_volume_23.sat
+ mescape
+view layers new
+excavation_24
+ escape escape
+view layers ToUse
+excavation_24
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples/Metamodel/Model_1/sat_files\excavation\excavation_volume_24.sat
+ mescape
+view layers new
+excavation_25
+ escape escape
+view layers ToUse
+excavation_25
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples/Metamodel/Model_1/sat_files\excavation\excavation_volume_25.sat
+ mescape
+view layers new
+excavation_26
+ escape escape
+view layers ToUse
+excavation_26
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples/Metamodel/Model_1/sat_files\excavation\excavation_volume_26.sat
+ mescape
+view layers new
+excavation_27
+ escape escape
+view layers ToUse
+excavation_27
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples/Metamodel/Model_1/sat_files\excavation\excavation_volume_27.sat
+ mescape
+view layers new
+excavation_28
+ escape escape
+view layers ToUse
+excavation_28
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples/Metamodel/Model_1/sat_files\excavation\excavation_volume_28.sat
+ mescape
+view layers new
+excavation_29
+ escape escape
+view layers ToUse
+excavation_29
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples/Metamodel/Model_1/sat_files\excavation\excavation_volume_29.sat
+ mescape
+view layers new
+excavation_30
+ escape escape
+view layers ToUse
+excavation_30
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples/Metamodel/Model_1/sat_files\excavation\excavation_volume_30.sat
+ mescape
+view layers new
+excavation_31
+ escape escape
+view layers ToUse
+excavation_31
+ escape escape
+Files AcisRead D:/git-satbim_internal/Examples/Metamodel/Model_1/sat_files\excavation\excavation_volume_31.sat
+ mescape
+Geometry Edit ConvToNurbsL
+InvertSelection
+ escape
+ Yes
+mescape
+view layers new
+heading_face_0
+ escape escape
+view layers entities
+heading_face_0
+surfaces
+2
+mescape
+view layers new
+heading_face_1
+ escape escape
+view layers entities
+heading_face_1
+surfaces
+1
+mescape
+view layers new
+heading_face_2
+ escape escape
+view layers entities
+heading_face_2
+surfaces
+4
+mescape
+view layers new
+heading_face_3
+ escape escape
+view layers entities
+heading_face_3
+surfaces
+6
+mescape
+view layers new
+heading_face_4
+ escape escape
+view layers entities
+heading_face_4
+surfaces
+8
+mescape
+view layers new
+heading_face_5
+ escape escape
+view layers entities
+heading_face_5
+surfaces
+10
+mescape
+view layers new
+heading_face_6
+ escape escape
+view layers entities
+heading_face_6
+surfaces
+12
+mescape
+view layers new
+heading_face_7
+ escape escape
+view layers entities
+heading_face_7
+surfaces
+14
+mescape
+view layers new
+heading_face_8
+ escape escape
+view layers entities
+heading_face_8
+surfaces
+16
+mescape
+view layers new
+heading_face_9
+ escape escape
+view layers entities
+heading_face_9
+surfaces
+18
+mescape
+view layers new
+heading_face_10
+ escape escape
+view layers entities
+heading_face_10
+surfaces
+20
+mescape
+view layers new
+heading_face_11
+ escape escape
+view layers entities
+heading_face_11
+surfaces
+22
+mescape
+view layers new
+heading_face_12
+ escape escape
+view layers entities
+heading_face_12
+surfaces
+24
+mescape
+view layers new
+heading_face_13
+ escape escape
+view layers entities
+heading_face_13
+surfaces
+26
+mescape
+view layers new
+heading_face_14
+ escape escape
+view layers entities
+heading_face_14
+surfaces
+28
+mescape
+view layers new
+heading_face_15
+ escape escape
+view layers entities
+heading_face_15
+surfaces
+30
+mescape
+view layers new
+heading_face_16
+ escape escape
+view layers entities
+heading_face_16
+surfaces
+32
+mescape
+view layers new
+heading_face_17
+ escape escape
+view layers entities
+heading_face_17
+surfaces
+34
+mescape
+view layers new
+heading_face_18
+ escape escape
+view layers entities
+heading_face_18
+surfaces
+36
+mescape
+view layers new
+heading_face_19
+ escape escape
+view layers entities
+heading_face_19
+surfaces
+38
+mescape
+view layers new
+heading_face_20
+ escape escape
+view layers entities
+heading_face_20
+surfaces
+40
+mescape
+view layers new
+heading_face_21
+ escape escape
+view layers entities
+heading_face_21
+surfaces
+42
+mescape
+view layers new
+heading_face_22
+ escape escape
+view layers entities
+heading_face_22
+surfaces
+44
+mescape
+view layers new
+heading_face_23
+ escape escape
+view layers entities
+heading_face_23
+surfaces
+46
+mescape
+view layers new
+heading_face_24
+ escape escape
+view layers entities
+heading_face_24
+surfaces
+48
+mescape
+view layers new
+heading_face_25
+ escape escape
+view layers entities
+heading_face_25
+surfaces
+50
+mescape
+view layers new
+heading_face_26
+ escape escape
+view layers entities
+heading_face_26
+surfaces
+52
+mescape
+view layers new
+heading_face_27
+ escape escape
+view layers entities
+heading_face_27
+surfaces
+54
+mescape
+view layers new
+heading_face_28
+ escape escape
+view layers entities
+heading_face_28
+surfaces
+56
+mescape
+view layers new
+heading_face_29
+ escape escape
+view layers entities
+heading_face_29
+surfaces
+58
+mescape
+view layers new
+heading_face_30
+ escape escape
+view layers entities
+heading_face_30
+surfaces
+60
+mescape
+view layers new
+heading_face_31
+ escape escape
+view layers entities
+heading_face_31
+surfaces
+62
+mescape
+mescape
+Meshing
+ Generate
+500 escape
+ escape
+Files Save
+Quit

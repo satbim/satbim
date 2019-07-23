@@ -1,0 +1,53 @@
+mescape
+mescape
+Utilities Variables ImportTolerance 5 AutoImportTolerance 0
+mescape
+mescape
+Files SaveAs D:/git-satbim_internal/Examples_2/Model_lodx/multi_build_lod_optim/multi_build_lod_optim_building_help_6.gid
+mescape
+mescape
+view layers new
+building_6 
+ escape escape
+view layers ToUse
+building_6 
+ escape escape
+mescape
+Files AcisRead D:/git-satbim_internal/Examples_2/Model_lodx/sat_files/buildings/building_6/building_volume1.sat
+ mescape
+view layers new
+foundation 
+ escape escape
+view layers ToUse
+foundation 
+ escape escape
+view layers entities
+foundation 
+LowerEntities Surfaces
+2
+mescape
+mescape
+Meshing ElemType Hexahedra
+InvertSelection
+ escape
+mescape
+Meshing Structured Volumes
+InvertSelection
+ escape
+ 1
+InvertSelection
+ escape
+ escape
+mescape
+Meshing Structured Lines 8
+InvertSelection
+ escape
+mescape
+mescape
+Utilities Variables Model(QuadraticType) 1
+mescape
+Meshing Generate
+DefaultSize
+mescape
+Files Save
+Quit

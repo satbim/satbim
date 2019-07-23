@@ -1,0 +1,544 @@
+mescape
+Data Materials NewMaterial Isotropic3D Building_1 Isotropic3D Isotropic3D 0kg/m^3 1000000000.0N/mm^2 0.3
+mescape
+Data Materials AssignMaterial Building_1 Volumes
+layer:building_1
+mescape
+Data Materials AssignMaterial Building_1 Volumes
+layer:foundation_1
+mescape
+mescape
+Data Conditions AssignCond VolumeElementType
+Change Kinematic_Linear
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:building_1
+mescape
+Data Conditions AssignCond VolumeElementType
+Change Kinematic_Linear
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:foundation_1
+mescape
+mescape
+Data Materials NewMaterial Isotropic3D Building_2 Isotropic3D Isotropic3D 0kg/m^3 1000000000.0N/mm^2 0.3
+mescape
+Data Materials AssignMaterial Building_2 Volumes
+layer:building_2
+mescape
+Data Materials AssignMaterial Building_2 Volumes
+layer:foundation_2
+mescape
+mescape
+Data Conditions AssignCond VolumeElementType
+Change Kinematic_Linear
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:building_2
+mescape
+Data Conditions AssignCond VolumeElementType
+Change Kinematic_Linear
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:foundation_2
+mescape
+mescape
+Data Materials NewMaterial Isotropic3D Building_3 Isotropic3D Isotropic3D 0kg/m^3 1000000000.0N/mm^2 0.3
+mescape
+Data Materials AssignMaterial Building_3 Volumes
+layer:building_3
+mescape
+Data Materials AssignMaterial Building_3 Volumes
+layer:foundation_3
+mescape
+mescape
+Data Conditions AssignCond VolumeElementType
+Change Kinematic_Linear
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:building_3
+mescape
+Data Conditions AssignCond VolumeElementType
+Change Kinematic_Linear
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:foundation_3
+mescape
+mescape
+Data Materials NewMaterial Isotropic3D Building_4 Isotropic3D Isotropic3D 0kg/m^3 1000000000.0N/mm^2 0.3
+mescape
+Data Materials AssignMaterial Building_4 Volumes
+layer:building_4
+mescape
+Data Materials AssignMaterial Building_4 Volumes
+layer:foundation_4
+mescape
+mescape
+Data Conditions AssignCond VolumeElementType
+Change Kinematic_Linear
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:building_4
+mescape
+Data Conditions AssignCond VolumeElementType
+Change Kinematic_Linear
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:foundation_4
+mescape
+mescape
+Data Materials NewMaterial Isotropic3D Building_5 Isotropic3D Isotropic3D 0kg/m^3 1000000000.0N/mm^2 0.3
+mescape
+Data Materials AssignMaterial Building_5 Volumes
+layer:building_5
+mescape
+Data Materials AssignMaterial Building_5 Volumes
+layer:foundation_5
+mescape
+mescape
+Data Conditions AssignCond VolumeElementType
+Change Kinematic_Linear
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:building_5
+mescape
+Data Conditions AssignCond VolumeElementType
+Change Kinematic_Linear
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:foundation_5
+mescape
+mescape
+Data Materials NewMaterial Isotropic3D Building_6 Isotropic3D Isotropic3D 0kg/m^3 1000000000.0N/mm^2 0.3
+mescape
+Data Materials AssignMaterial Building_6 Volumes
+layer:building_6
+mescape
+Data Materials AssignMaterial Building_6 Volumes
+layer:foundation_6
+mescape
+mescape
+Data Conditions AssignCond VolumeElementType
+Change Kinematic_Linear
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:building_6
+mescape
+Data Conditions AssignCond VolumeElementType
+Change Kinematic_Linear
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:foundation_6
+mescape
+mescape
+Data Materials NewMaterial Isotropic3D Building_7 Isotropic3D Isotropic3D 0kg/m^3 1000000000.0N/mm^2 0.3
+mescape
+Data Materials AssignMaterial Building_7 Volumes
+layer:building_7
+mescape
+Data Materials AssignMaterial Building_7 Volumes
+layer:foundation_7
+mescape
+mescape
+Data Conditions AssignCond VolumeElementType
+Change Kinematic_Linear
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:building_7
+mescape
+Data Conditions AssignCond VolumeElementType
+Change Kinematic_Linear
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:foundation_7
+mescape
+mescape
+Data Materials NewMaterial Isotropic3D Building_8 Isotropic3D Isotropic3D 0kg/m^3 1000000000.0N/mm^2 0.3
+mescape
+Data Materials AssignMaterial Building_8 Volumes
+layer:building_8
+mescape
+Data Materials AssignMaterial Building_8 Volumes
+layer:foundation_8
+mescape
+mescape
+Data Conditions AssignCond VolumeElementType
+Change Kinematic_Linear
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:building_8
+mescape
+Data Conditions AssignCond VolumeElementType
+Change Kinematic_Linear
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:foundation_8
+mescape
+mescape
+Data Materials NewMaterial Isotropic3D Building_9 Isotropic3D Isotropic3D 0kg/m^3 1000000000.0N/mm^2 0.3
+mescape
+Data Materials AssignMaterial Building_9 Volumes
+layer:building_9
+mescape
+Data Materials AssignMaterial Building_9 Volumes
+layer:foundation_9
+mescape
+mescape
+Data Conditions AssignCond VolumeElementType
+Change Kinematic_Linear
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:building_9
+mescape
+Data Conditions AssignCond VolumeElementType
+Change Kinematic_Linear
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:foundation_9
+mescape
+mescape
+Data Materials NewMaterial Isotropic3D Building_10 Isotropic3D Isotropic3D 0kg/m^3 1000000000.0N/mm^2 0.3
+mescape
+Data Materials AssignMaterial Building_10 Volumes
+layer:building_10
+mescape
+Data Materials AssignMaterial Building_10 Volumes
+layer:foundation_10
+mescape
+mescape
+Data Conditions AssignCond VolumeElementType
+Change Kinematic_Linear
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:building_10
+mescape
+Data Conditions AssignCond VolumeElementType
+Change Kinematic_Linear
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:foundation_10
+mescape
+mescape
+Data Materials NewMaterial Isotropic3D Building_11 Isotropic3D Isotropic3D 0kg/m^3 1000000000.0N/mm^2 0.3
+mescape
+Data Materials AssignMaterial Building_11 Volumes
+layer:building_11
+mescape
+Data Materials AssignMaterial Building_11 Volumes
+layer:foundation_11
+mescape
+mescape
+Data Conditions AssignCond VolumeElementType
+Change Kinematic_Linear
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:building_11
+mescape
+Data Conditions AssignCond VolumeElementType
+Change Kinematic_Linear
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:foundation_11
+mescape
+mescape
+Data Materials NewMaterial Isotropic3D Building_12 Isotropic3D Isotropic3D 0kg/m^3 1000000000.0N/mm^2 0.3
+mescape
+Data Materials AssignMaterial Building_12 Volumes
+layer:building_12
+mescape
+Data Materials AssignMaterial Building_12 Volumes
+layer:foundation_12
+mescape
+mescape
+Data Conditions AssignCond VolumeElementType
+Change Kinematic_Linear
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:building_12
+mescape
+Data Conditions AssignCond VolumeElementType
+Change Kinematic_Linear
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:foundation_12
+mescape
+mescape
+Data Materials NewMaterial Isotropic3D Building_13 Isotropic3D Isotropic3D 0kg/m^3 1000000000.0N/mm^2 0.3
+mescape
+Data Materials AssignMaterial Building_13 Volumes
+layer:building_13
+mescape
+Data Materials AssignMaterial Building_13 Volumes
+layer:foundation_13
+mescape
+mescape
+Data Conditions AssignCond VolumeElementType
+Change Kinematic_Linear
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:building_13
+mescape
+Data Conditions AssignCond VolumeElementType
+Change Kinematic_Linear
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:foundation_13
+mescape
+mescape
+Data Materials NewMaterial Isotropic3D Building_14 Isotropic3D Isotropic3D 0kg/m^3 1000000000.0N/mm^2 0.3
+mescape
+Data Materials AssignMaterial Building_14 Volumes
+layer:building_14
+mescape
+Data Materials AssignMaterial Building_14 Volumes
+layer:foundation_14
+mescape
+mescape
+Data Conditions AssignCond VolumeElementType
+Change Kinematic_Linear
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:building_14
+mescape
+Data Conditions AssignCond VolumeElementType
+Change Kinematic_Linear
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:foundation_14
+mescape
+mescape
+Data Materials NewMaterial Isotropic3D Building_15 Isotropic3D Isotropic3D 0kg/m^3 1000000000.0N/mm^2 0.3
+mescape
+Data Materials AssignMaterial Building_15 Volumes
+layer:building_15
+mescape
+Data Materials AssignMaterial Building_15 Volumes
+layer:foundation_15
+mescape
+mescape
+Data Conditions AssignCond VolumeElementType
+Change Kinematic_Linear
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:building_15
+mescape
+Data Conditions AssignCond VolumeElementType
+Change Kinematic_Linear
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:foundation_15
+mescape
+mescape
+Data Materials NewMaterial Isotropic3D Building_16 Isotropic3D Isotropic3D 0kg/m^3 1000000000.0N/mm^2 0.3
+mescape
+Data Materials AssignMaterial Building_16 Volumes
+layer:building_16
+mescape
+Data Materials AssignMaterial Building_16 Volumes
+layer:foundation_16
+mescape
+mescape
+Data Conditions AssignCond VolumeElementType
+Change Kinematic_Linear
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:building_16
+mescape
+Data Conditions AssignCond VolumeElementType
+Change Kinematic_Linear
+1000.0kg/m^3
+1.295kg/m^3
+0.2
+0.001m/s
+0.00000032m/s
+0.00000044m/s
+0.0001m/s
+0.0535
+layer:foundation_16
+mescape

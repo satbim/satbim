@@ -1,0 +1,12 @@
+lod 3.0
+n_col_x 4
+n_col_y 3
+n_floors 3
+x_span 600.0
+y_span 600.0
+h_floor 500.0
+linear_elastic_material_build True 
+E_build 10000
+nu_build 0.3
+ro_build 0
+build_mesh_size 50

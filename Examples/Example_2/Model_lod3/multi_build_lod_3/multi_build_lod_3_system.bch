@@ -1,0 +1,633 @@
+mescape
+Files SaveAs D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/multi_build_lod_3_system.gid
+mescape
+mescape
+Utilities Variables ImportTolerance 5.0 AutoImportTolerance 0 
+mescape
+Data Defaults ProblemType Yes ekate mescape
+mescape
+Files InsertGeom D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/multi_build_lod_3_ground_model.gid
+mescape
+Files InsertGeom D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/multi_build_lod_3_grouting_model.gid
+mescape
+mescape
+Meshing CancelMesh PreserveFrozen Yes
+mescape
+mescape
+mescape
+Utilities Collapse Model Yes
+mescape
+Utilities Repair Yes
+mescape
+Utilities Collapse Model Yes
+mescape
+Files InsertGeom D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/multi_build_lod_3_excavation_model.gid
+mescape
+mescape
+mescape
+Meshing CancelMesh PreserveFrozen Yes
+mescape
+Utilities Collapse Model Yes
+mescape
+mescape
+Files InsertGeom D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/multi_build_lod_3_building_model.gid
+mescape
+Files InsertGeom D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/multi_build_lod_3_bolts_model.gid
+mescape
+mescape
+Meshing CancelMesh PreserveFrozen Yes
+mescape
+Utilities Collapse Model Yes
+mescape
+Utilities Repair Yes
+mescape
+Utilities Variables ImportTolerance 1.0 AutoImportTolerance 0 
+mescape
+mescape
+mescape
+Files InsertGeom D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/multi_build_lod_3_lining_model.gid
+mescape
+Files InsertGeom D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/multi_build_lod_3_tbm_model.gid
+mescape
+Meshing CancelMesh PreserveFrozen Yes
+mescape
+Utilities Repair Yes
+Utilities Move All Duplicate MaintainLayers Scale
+-2093.20242808 3935.25216918 14000.0
+0.01 0.01 0.01
+InvertSelection
+mescape
+Utilities Move All Duplicate MaintainLayers Translation
+-2093.20242808 3935.25216918 14000.0
+0.0 0.0 0.0
+InvertSelection
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Slave Option_automatic_axes
+layer:shield_outter_surface
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_1
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_2
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_3
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_4
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_5
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_6
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_7
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_8
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_9
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_10
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_11
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_12
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_13
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_14
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_15
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_16
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_17
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_18
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_19
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_20
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_21
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_22
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_23
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_24
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_25
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_26
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_27
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_28
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_29
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_30
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_31
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_32
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_33
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_34
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_35
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_36
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_37
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_38
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_39
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_40
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_41
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_42
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_43
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_44
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_45
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_46
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_47
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_48
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_49
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_50
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_51
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_52
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_53
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_54
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_55
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_56
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_57
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_58
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_59
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_60
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_61
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_62
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_63
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_64
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_65
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_66
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_67
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_68
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_69
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_70
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_71
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_72
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_73
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_74
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_75
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_76
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_77
+mescape
+Data Conditions AssignCond Surface_Mortar Change 1 Master Option_automatic_axes
+layer:excavation_surface_78
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Master Option_automatic_axes
+layer:grouting_surface_inside
+mescape
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_1
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_2
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_3
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_4
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_5
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_6
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_7
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_8
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_9
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_10
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_11
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_12
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_13
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_14
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_15
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_16
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_17
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_18
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_19
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_20
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_21
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_22
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_23
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_24
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_25
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_26
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_27
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_28
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_29
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_30
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_31
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_32
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_33
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_34
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_35
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_36
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_37
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_38
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_39
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_40
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_41
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_42
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_43
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_44
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_45
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_46
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_47
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_48
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_49
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_50
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_51
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_52
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_53
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_54
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_55
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_56
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_57
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_58
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_59
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_60
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_61
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_62
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_63
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_64
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_65
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_66
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_67
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_68
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_69
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_70
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_71
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_72
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_73
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_74
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_75
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_76
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_77
+mescape
+Data Conditions AssignCond Surface_Mortar Change 10 Slave Option_automatic_axes
+layer:lining_outer_surface_78
+mescape
+mescape
+Files SaveAs D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/multi_build_lod_3_system.gid
+mescape
+mescape
+Files BatchFile
+D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/set_activation_grouting.bch
+mescape
+Files BatchFile
+D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/set_activation_lining.bch
+mescape
+Files BatchFile
+D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/set_activation_excavation.bch
+mescape
+Files Save
+mescape
+mescape
+Files BatchFile
+D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/material_condition_lining.bch
+mescape
+mescape
+Files BatchFile
+D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/material_condition_soil.bch
+mescape
+mescape
+Files BatchFile
+D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/material_condition_building.bch
+mescape
+mescape
+Files BatchFile
+D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/material_condition_grouting.bch
+mescape
+mescape
+Files BatchFile
+D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/material_condition_tbm.bch
+mescape
+mescape
+Files BatchFile
+D:/git-satbim_internal/Examples_2/Model_lod3/multi_build_lod_3/material_condition_excavation.bch
+mescape
+mescape
+Files Save
+mescape
+Utilities Repair Yes
+mescape
+mescape
+Utilities Variables Model(QuadraticType) 1
+mescape
+mescape
+Meshing
+ Generate
+8 escape
+ escape
+mescape
+Data ProblemData -SingleField-
+Stresses 1
+mescape
+Data ProblemData -SingleField-
+Insitu_Stress 1
+mescape
+Data ProblemData -SingleField-
+Perform_MultiFlow_Analysis 1
+mescape
+Data ProblemData -SingleField-
+Water_Pressure 1
+mescape
+Data ProblemData -SingleField-
+Saturation 1
+mescape
+Data ProblemData -SingleField-
+Plastic_strains 1
+mescape
+Files Save
+mescape
+Data ProblemData -SingleField-
+Enable_Gravity 1 
+mescape
+Data ProblemData -SingleField-
+Solver
+Pardiso
+mescape
+Data ProblemData -SingleField-
+analysis_type
+quasi-static
+mescape
+mescape
+Utilities Calculate 
+mescape
+Files WriteCalcFile
+mescape
+mescape
+mescape
+Files Save
+mescape
+Quit

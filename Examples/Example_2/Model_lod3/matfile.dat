@@ -1,0 +1,21 @@
+begin material soil_1
+begin polygon
+-10 0 -50 
+230.0 0 -50 
+230.0 0 17 
+-10 0 17 
+end polygon
+begin parameters
+model_type mohr_coulomb 
+youngs_modulus 100000000 
+internal_friction_angle 30 
+dilatancy_angle 25 
+hardening_modulus 50000000 
+density 1800 
+poisson_ratio 0.3 
+permeability 0.001 
+porosity 0.2 
+cohesion 200000 
+K0 1.0
+end parameters
+end material
