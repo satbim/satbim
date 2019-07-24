@@ -1,0 +1,155 @@
+def ReadLayerSets():
+    ##################################################################
+    ## STORE LAYER SETS ##############################################
+    ##################################################################
+    ## ELEMENTS on layers ############################################
+    layer_sets = {}
+*loop layers
+*set Layer *LayerName *elems
+    layer_elements_list = [
+*loop elems *OnlyInLayer
+    *ElemsNum ,
+*end elems
+    ]
+    layer_sets['*LayerName'] = layer_elements_list
+*end layers
+    return layer_sets
+
+def ReadLayerNodesSets():
+    ## NODES on layers ###############################################
+    layer_nodes_sets = {}
+*loop layers
+*set Layer *LayerName *nodes
+    layer_nodes_list = [
+*loop nodes *OnlyInLayer
+    *NodesNum ,
+*end nodes
+    ]
+    layer_nodes_sets['*LayerName'] = layer_nodes_list
+*end layers
+    return layer_nodes_sets
+
+def ReadBoundaryNodes():
+    ## BOUNDARY NODES ##########################################
+    boundary_nodes = {}
+    boundary_nodes['IsBoundary'] = []
+    boundary_nodes['IsBottom'] = []
+    boundary_nodes['IsSide'] = []
+    boundary_nodes['IsTop'] = []
+
+*set cond IsBoundary *nodes
+*loop nodes *OnlyInCond
+    boundary_nodes['IsBoundary'].append( *NodesNum )
+*end nodes
+*set cond IsBottom *nodes
+*loop nodes *OnlyInCond
+    boundary_nodes['IsBottom'].append( *NodesNum )
+*end nodes
+*set cond IsSide *nodes
+*loop nodes *OnlyInCond
+    boundary_nodes['IsSide'].append( *NodesNum )
+*end nodes
+*set cond IsTop *nodes
+*loop nodes *OnlyInCond
+    boundary_nodes['IsTop'].append( *NodesNum )
+*end nodes
+    return boundary_nodes
+
+def ReadContactMasterNodes():
+    ## CONTACT MASTER NODES ##########################################
+*set cond Contact_Master *nodes
+    contact_master_nodes = [
+*loop nodes *OnlyInCond
+    *NodesNum ,
+*end nodes
+    ]
+    return contact_master_nodes
+
+def ReadContactSlaveNodes():
+    ## CONTACT SLAVE NODES ###########################################
+*set cond Contact_Slave *nodes
+    contact_slave_nodes = [
+*loop nodes *OnlyInCond
+    *NodesNum ,
+*end nodes
+    ]
+    return contact_slave_nodes
+
+def ReadLiningEndNodes():
+    ## LINING END NODES ###########################################
+*set cond Lining_End *nodes
+    lining_end_nodes = [
+*loop nodes *OnlyInCond
+    *NodesNum ,
+*end nodes
+    ]
+    return lining_end_nodes
+
+def ReadTBMEndNodes():
+    ## TBM END NODES ###########################################
+*set cond TBM_End *nodes
+    tbm_end_nodes = [
+*loop nodes *OnlyInCond
+    *NodesNum ,
+*end nodes
+    ]
+    return tbm_end_nodes
+
+def ReadInnerBoundaryNodes():
+    ## INNER BOUNDARY NODES ##########################################
+*set cond Inner_Boundary *nodes
+    inner_boundary_nodes = [
+*loop nodes *OnlyInCond
+    *NodesNum ,
+*end nodes
+    ]
+    return inner_boundary_nodes
+
+def ReadTopSurfaceNodes():
+    ##################################################################
+    ## STORE NODES ON GROUND SURFACE #################################
+    ##################################################################
+    top_surface_nodes = [
+*set cond IsTop *nodes
+*format "%i%f"
+*loop nodes *onlyInCond
+    *NodesNum,
+*end nodes
+    ]
+    return top_surface_nodes
+
+def ReadNodeGroups():
+    ##################################################################
+    ## STORE NODES CORRECTLY FOR CONDITIONS ##########################
+    ##################################################################
+*set cond Volume_Group_Membership *nodes *canRepeat
+*loop nodes *OnlyInCond*\
+*tcl(AddCondGroupName *cond(Group_Name))*\
+*end nodes
+*set cond Surface_Group_Membership *nodes *canRepeat
+*loop nodes *OnlyInCond*\
+*tcl(AddCondGroupName *cond(Group_Name))*\
+*end nodes
+*set cond Line_Group_Membership *nodes *canRepeat
+*loop nodes *OnlyInCond*\
+*tcl(AddCondGroupName *cond(Group_Name))*\
+*end nodes
+    *tcl(InitializeNodeGroups)
+
+*set cond Volume_Group_Membership *nodes *canRepeat
+*loop nodes *OnlyInCond
+    # *cond(Group_Name)
+    node_groups['*cond(Group_Name)'].append( *NodesNum )
+*end nodes
+*set cond Surface_Group_Membership *nodes *canRepeat
+*loop nodes *OnlyInCond
+    # *cond(Group_Name)
+    node_groups['*cond(Group_Name)'].append( *NodesNum )
+*end nodes
+*set cond Line_Group_Membership *nodes *canRepeat
+*loop nodes *OnlyInCond
+    # *cond(Group_Name)
+    node_groups['*cond(Group_Name)'].append( *NodesNum )
+*end nodes
+    return node_groups
+

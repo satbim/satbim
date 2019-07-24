@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/kratos/!svn/ver/268/applications_nonfree/problemtypes/ekate.gid/symbols
+END
+BoundCond.geo
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/kratos/!svn/ver/268/applications_nonfree/problemtypes/ekate.gid/symbols/BoundCond.geo
+END
+PointCond.geo
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/kratos/!svn/ver/268/applications_nonfree/problemtypes/ekate.gid/symbols/PointCond.geo
+END
+SourceN.geo
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/kratos/!svn/ver/268/applications_nonfree/problemtypes/ekate.gid/symbols/SourceN.geo
+END
+Velocity.geo
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/kratos/!svn/ver/268/applications_nonfree/problemtypes/ekate.gid/symbols/Velocity.geo
+END
+flux.geo
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/kratos/!svn/ver/268/applications_nonfree/problemtypes/ekate.gid/symbols/flux.geo
+END
+Source.geo
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/kratos/!svn/ver/268/applications_nonfree/problemtypes/ekate.gid/symbols/Source.geo
+END

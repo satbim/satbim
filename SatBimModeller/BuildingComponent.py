@@ -188,7 +188,7 @@ class BuildingComponent(ModelComponent):
 				ostream.write("mescape\n")
 				
 				
-				
+			build_mesh_size=self.params['build_mesh_size']	
 			ostream.write("mescape\n")
 			ostream.write("Meshing ElemType Hexahedra\n")
 			ostream.write("InvertSelection\n escape\n escape\n")
@@ -299,6 +299,11 @@ class BuildingComponent(ModelComponent):
 			ostream.write("Meshing CancelMesh PreserveFrozen Yes\n")
 			ostream.write("mescape\n")
 			ostream.write("mescape\n")
+			ostream.write("mescape\n")
+			ostream.write("Meshing Structured Lines Size "+str(self.params['build_mesh_size'])+" \n")				
+			ostream.write("InvertSelection\n escape\n")
+			ostream.write("mescape\n")
+			ostream.write("mescape\n")
 			ostream.write("Utilities Variables Model(QuadraticType) 1\n")
 			ostream.write("mescape\n")
 			ostream.write("Meshing Generate\n")
@@ -318,7 +323,7 @@ class BuildingComponent(ModelComponent):
 			for i in range(0, len(self.params['lod'])):
 				index=index+1
 				ifile.write("mescape\n")
-				ifile.write("Data Materials NewMaterial Isotropic3D Building_" +str(index)+" Isotropic3D Isotropic3D "+str(self.params['ro_build'][index-1])+"kg/m^3 "+ str(self.params['E_build'][index-1]*1000000)+"N/mm^2 "+str(self.params['nu_build'][index-1])+"\n")
+				ifile.write("Data Materials NewMaterial Isotropic3D Building_" +str(index)+" Isotropic3D Isotropic3D "+str(self.params['ro_build'][index-1])+"kg/m^3 "+ str(float(self.params['E_build'][index-1])*1000000.0)+"N/mm^2 "+str(self.params['nu_build'][index-1])+"\n")
 				ifile.write("mescape\n")
 				ifile.write("Data Materials AssignMaterial Building_" +str(index)+" Volumes\n")
 				ifile.write('layer:building_'+str(index)+'\n')
@@ -662,6 +667,7 @@ class BuildingComponent(ModelComponent):
 		ifile.write("Meshing Structured Lines 1\n")
 		ifile.write("InvertSelection\n escape\n")
 		ifile.write("mescape\n")
+
 		ifile.write("mescape\n")
 		ifile.write("Utilities Variables Model(QuadraticType) 1\n")
 		ifile.write("mescape\n")
