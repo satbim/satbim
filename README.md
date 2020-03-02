@@ -1,7 +1,7 @@
 # satbim
 Main public repository of SATBIM
 
-#Cite
+# Cite
 
 @Article{Nin17,
   author  = {Ninic, J. and Koch, C. and Stascheit, J.},
