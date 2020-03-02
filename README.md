@@ -1,5 +1,6 @@
 # satbim
-Main public repository of SATBIM
+Main public repository of SATBIM.
+The goal of the SATBIM project is to develop a multi-level simulation model for tunnel structure interaction integrated in the framework of Building Information Modelling to support engineering decisions during the project life cycle and to allow for the evaluation and minimization of risks on the existing infrastructure. SATBIM is and integrated platform for structural analysis, visualisation and optimization of the mechanized tunnelling process from early stages of the design over to the construction and the operation phase. The complete concept will be validated using industrial data with reference real tunnel project. The output will have wide implication on technology with expected high academic and industrial impact.
 
 # Cite
 
@@ -30,7 +31,6 @@ Main public repository of SATBIM
   journal = {Advanced Engineering Informatics},
   year    = {2020},
 }
-
 
 # Licence
 
