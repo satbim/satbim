@@ -40,7 +40,7 @@ journal = {Advanced Engineering Informatics},
 volume = {46},
 pages = {101137},
 year = {2020},
-doi = [https://doi.org/10.1016/j.aei.2020.101137}
+doi = {https://doi.org/10.1016/j.aei.2020.101137}
 }
 
 # Licence
