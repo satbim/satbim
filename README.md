@@ -25,11 +25,23 @@ The goal of the SATBIM project is to develop a multi-level simulation model for 
 }
 
 
-@Article{Ninic:20,
+@Article{Ninic:20a,
   author  = {Ninic, J. and Vonthron, A. and Koch, C. and Tizani, W. and Koenig, M},
   title   = {Integrated parametric multi-level information and numerical modelling of mechanised tunnelling projects},
   journal = {Advanced Engineering Informatics},
+  volume  = {43},
   year    = {2020},
+}
+
+@article{Ninic:20b,
+author = {Ninic, J. and Bui, H. G. and Meschke, G.}
+title = {BIM-to-IGA: A fully automatic design-through-analysis workflow for segmented tunnel linings},
+journal = {Advanced Engineering Informatics],
+volume = {46},
+pages = [101137},
+year = [2020],
+doi = [https://doi.org/10.1016/j.aei.2020.101137},
+
 }
 
 # Licence
